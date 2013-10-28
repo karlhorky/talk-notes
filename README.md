@@ -185,8 +185,6 @@ Test Your Way To Success
 How Customer-Centricity is Changing Email
 =========================================
 
-* customer.io
-  * anywhere where customers can log in
 * customer centricity
   * focusing on what's best for the customer, not just short-term gains
   * most businesses sit in land of indifference - they don't really love or hate you
@@ -201,3 +199,20 @@ How Customer-Centricity is Changing Email
 * auto-unsubscribe - customer-centric measure to avoid spamming customers
 * Google's tabbed inbox: making customers more receptive to the content that they want to receive
 * no segmentation a problem
+* customers want a single brain that has all of the history of the customer
+  * this doesn't happen very often
+  * more often: multiple representatives with no information sharing
+  * this will change in the next 5 years
+* multi-channel aggregation - bringing the information in multiple online profiles together for targeting purposes
+* trak.io - twitter, location data, in-app activity
+* customer.io
+  * real-time targeting
+  * if customer reaches out on twitter and calls support, automatically send discount code
+* MovableInk: real-time image targeting based on location
+* Netflix: targeted recommendations of videos
+* Recommendation engine: $500k to build in-house
+* DirectedEdge, richrelevance: drop-in solutions to recommendation engine problem
+* customer-centric email programs in the future
+  * -number of emails
+  * +wanted emails
+  * +personalized content
