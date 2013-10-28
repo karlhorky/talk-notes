@@ -73,3 +73,6 @@ by [Brendan Schwartz](https://twitter.com/brendan)
   * great front-person
 * building the best video template
   * engaging images
+* video production - avoid the fear
+  * wistia did video hosting, but never produced video for promoting themselves
+  * $100 diy lighting set up
