@@ -21,3 +21,29 @@ by [Chris Studabaker](https://twitter.com/cstudabaker)
   * *data inspires design creativity:* how can we use analytics to improve our design exploration
   * *design drives business (which drives design):* design of your emails leads to success or failures, which affects business. You can allow the business data to shape your design process and get better results.
   * *design is constraint:* it's about being given a problem and needing to find a solution. wacky constraints cause us to take a different path than web development.
+
+
+Restoring your Faith in Email
+=============================
+
+by [Dan Oshinsky](https://twitter.com/danoshinsky)
+
+* email articles had huge feedback - this is an area that
+* buzzfeed: 80m+ unique, passed new york times last month
+  * 75% from social (incl. email)
+  * 50% from mobile
+  * 60% 18-34y
+* don't bug or be irrelevant to your customers
+* email is very personal - your chance to get an audience with important characters
+* opportunity to create unique voices to stand out from the crowd
+* email can be a place to delight people
+* why to people share on social networks?
+  * causes a reaction
+  * reinforces identity
+  * makes sharer look smart or helpful
+  * Facebook: who I am, what I believe in
+  * Twitter: what's happening, what makes me look good
+  * Email: can include all of the above
+* buzzfeed newsletter
+  * design and content that anyone can get into
+  *
