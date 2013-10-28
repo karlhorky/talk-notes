@@ -76,3 +76,39 @@ by [Brendan Schwartz](https://twitter.com/brendan)
 * video production - avoid the fear
   * wistia did video hosting, but never produced video for promoting themselves
   * $100 diy lighting set up
+
+
+Not Your Usual Mobile Email Talk
+================================
+
+by [Elliot Ross](https://twitter.com/iamelliot)
+and [Justine Jordan](https://twitter.com/meladorri)
+
+* people are taking emails out into the world more
+* factors to deal with with mobile email:
+  * attention
+  * internet connection
+  * amount of email
+  * location
+  * device & app capabilities
+  * sunlight
+* experience matters
+* when an email design is not mobile optimized:
+  * 80% of people would delete it (15%+ over last year)
+  * 30% would unsubscribe
+* 5 easy design wins
+  * concise content: less space so get the message across
+  * 1 column
+  * designed for touch: bigger buttons - min size 44px2 - and spaced out
+  * shorter subject lines and information at start (iphone cuts off at 35 char)
+  * more contrast
+* additionally
+  * alt-text (styled if possible)
+  * pre-header text
+  * not just images
+* 5 responsive techniques
+  * resize content: make images fit, text larger
+  * hide content
+  * stack columns
+  * 100% wide buttons
+  * stack navigation items
