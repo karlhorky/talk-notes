@@ -149,3 +149,55 @@ and [Justine Jordan](https://twitter.com/meladorri)
 * live image content: integration with a back-end to deliver customized images
 * small user experience wins:
   * tel: or sms: links
+
+Test Your Way To Success
+========================
+
+* even comedian do test runs of their content
+* split customers 50/50, find out which performs better
+* we have theories, but we should test to be sure
+* test things that are going to allow you to reuse the knowledge
+* hypotheses (customer stories): what is the customer thinking?
+  * ex. "header is too busy", "two calls to action are too confusing"
+* open, click and convert rates
+  * design changes can more wildly influence convert and click rates
+  * careful consideration needs to be made to get a balance of the best results
+* most tests won't win you anything
+* incremental and compounding gains
+* obama campaign:
+  * $500M from email, +$200M from email testing
+  * sometimes extreme simplicity wins
+  * "frankenstein" emails: emails created from winning parts of other emails
+* validity of your tests (repeatability, reliability)
+  * test cell sizes - min 3k, better 5k - 10k, sometimes 25k+
+* rarity of response
+  * conversion rate change is difficult to measure since it doesn't happen very often
+* small changes -> small results
+* big changes -> big results
+* wait periods
+  * 10 days for $$
+  * 2 or 3 days for click results
+* don't be afraid of doing large changes in your tests - easier to learn a lot more quickly
+* failures of testing
+  * data skew can occur with insufficiently random data
+  * measurement failures
+
+How Customer-Centricity is Changing Email
+=========================================
+
+* customer.io
+  * anywhere where customers can log in
+* customer centricity
+  * focusing on what's best for the customer, not just short-term gains
+  * most businesses sit in land of indifference - they don't really love or hate you
+  * holy grail is really authentic, genuine interactions with customers that customers love you for
+  * is: personal
+  * is: human point of contact with the company
+* example: customer centricity
+  * RiteCheck - cheque cashing company building a great relationship with the customer
+  * Virgin America Airlines - customer missed his flight and they helped him still get to his destination. Richard Branson "If you win people over, profits will follow"
+* creating trust and value
+* flat design trend - trying to simplify the message and help the customer with reduced embellishment
+* auto-unsubscribe - customer-centric measure to avoid spamming customers
+* Google's tabbed inbox: making customers more receptive to the content that they want to receive
+* no segmentation a problem
