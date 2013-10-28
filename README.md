@@ -112,3 +112,40 @@ and [Justine Jordan](https://twitter.com/meladorri)
   * stack columns
   * 100% wide buttons
   * stack navigation items
+* media query compatibility
+  * -exchange
+  * -webmail on Android
+  * -Yahoo mail app
+  * -window phone 6/7/8?
+  * -bb os 5
+  * +ios
+  * +android native
+  * +wphone 7.5
+  * +bb 7, 10
+  * +palm web
+  * +kindle fire
+* media queries - android observations
+  * images blocked
+  * two apps with opposing support for media queries
+  * primary content focus on left side
+  * various screen sizes
+  * sometimes autoscale
+* media queries - bb
+  * media queries
+  * images blocked
+  * styled alt-text
+  * does not scale/auto-zoom
+  * no separate app
+* media queries - wphone
+  * mixed mq support
+  * strange fonts
+  * blocks images, no alt-text
+  * not popular
+* media queries - iPhone
+  * auto-scales
+  * very good css3 / mq support
+  * images on by default
+  * auto-resizes up fonts under 13px
+* live image content: integration with a back-end to deliver customized images
+* small user experience wins:
+  * tel: or sms: links
