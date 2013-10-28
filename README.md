@@ -54,3 +54,22 @@ by [Dan Oshinsky](https://twitter.com/danoshinsky)
   * long-form newsletters with great content are undercapitalized
   * DIY: vertical with identity-reinforcement
   * royal baby emails: identity. 65% open, 22% click
+
+Building an Audience with Video and Email
+=========================================
+
+by [Brendan Schwartz](https://twitter.com/brendan)
+
+* "Trust Bank": you have only so much equity with customers
+* continuously delivering on promises builds trust quickly
+* Brendan's trust map - bad:
+  * comcast
+  * facebook
+* Brendan's trust map - good:
+  * patagonia
+  * apple
+* vooza: making fun of startup culture
+* George Zimmer - "you're going to like the way you look - I guarantee it"
+  * great front-person
+* building the best video template
+  * engaging images
