@@ -153,6 +153,8 @@ and [Justine Jordan](https://twitter.com/meladorri)
 Test Your Way To Success
 ========================
 
+by [Tim Watson](https://twitter.com/tawatson)
+
 * even comedian do test runs of their content
 * split customers 50/50, find out which performs better
 * we have theories, but we should test to be sure
@@ -185,6 +187,8 @@ Test Your Way To Success
 How Customer-Centricity is Changing Email
 =========================================
 
+by [Colin Nederkoorn](https://twitter.com/alphacolin)
+
 * customer centricity
   * focusing on what's best for the customer, not just short-term gains
   * most businesses sit in land of indifference - they don't really love or hate you
@@ -216,3 +220,4 @@ How Customer-Centricity is Changing Email
   * -number of emails
   * +wanted emails
   * +personalized content
+
