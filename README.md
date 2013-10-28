@@ -28,12 +28,16 @@ Restoring your Faith in Email
 
 by [Dan Oshinsky](https://twitter.com/danoshinsky)
 
-* email articles had huge feedback - this is an area that
+* email articles had huge feedback - this is an area that could really be a capitalized upon
 * buzzfeed: 80m+ unique, passed new york times last month
   * 75% from social (incl. email)
   * 50% from mobile
   * 60% 18-34y
-* don't bug or be irrelevant to your customers
+* don't bug or be irrelevant to your customers. be:
+  * personable
+  * shareable
+  * timely (right time of day)
+  * reliable (design, mobile)
 * email is very personal - your chance to get an audience with important characters
 * opportunity to create unique voices to stand out from the crowd
 * email can be a place to delight people
@@ -46,4 +50,7 @@ by [Dan Oshinsky](https://twitter.com/danoshinsky)
   * Email: can include all of the above
 * buzzfeed newsletter
   * design and content that anyone can get into
-  *
+  * gifs: spike in clicks
+  * long-form newsletters with great content are undercapitalized
+  * DIY: vertical with identity-reinforcement
+  * royal baby emails: identity. 65% open, 22% click
