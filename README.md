@@ -4,7 +4,7 @@ Lessons from a Low-Flying Industry
 by [Chris Studabaker](https://twitter.com/cstudabaker)
 
 * email design started: Hotmail 1996 (free, low requirements, anyone could get an address)
-* email -> permissive (people sign up and permit communication with them)
+* email is permissive (people sign up and permit communication with them)
 * email design is often compared to web design, but email has key differences
   * short dev cycle
   * not periodically delivered
