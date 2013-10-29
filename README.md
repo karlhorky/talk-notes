@@ -257,11 +257,38 @@ by [Ros Hodgekiss](https://twitter.com/yarrcat)
 * diamond resorts
   * css animations
   * static headers
+* crocs mobile success: +7.7% clicks, +15.6% opens on iPhones
 
 ### Some Advice ###
 
 * make sure it's practical
   * don't *just* procrastinate just by trying out things
-* but also just muck around
+* but also just muck around, you can learn a lot!
 * campaign monitor, mailchimp have great starting template, good boilerplate
-*
+
+### Responsive ###
+
+* limitations like smaller screen sizes and shifting consumption situations force us to be better email designers
+* responsive represents a big opportunity - many emails don't take optimize and get dismissed
+  * 1/3 subscribers will unsubscribe if email is not mobile-optimized
+* mobile first = results first
+  * simple email approaches tend to work pretty well everywhere
+
+### Trends ###
+
+* email used to be seen as a small value add - if it works, great, if not, no biggie
+* now it's becoming more imporant and central to business values
+* clients are embracing the shift
+
+  * would you recommend talking numbers and roi when trying to win over clients on responsive design or are there other approaches too?
+
+* email is the new social
+* 56% companies plan on increasing investment in their email marketing channel
+
+
+Data For Designers
+==================
+
+by [Kristina Huffman](https://twitter.com/krudz)
+and Schuyler Wareham
+
