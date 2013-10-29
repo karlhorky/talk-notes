@@ -297,3 +297,15 @@ and Schuyler Wareham
 * don't get stuck in the world where specific devices matter
 * mobile triage is a myth
 * peak times morning, evening for mobile
+* less clicks on mobile
+  * more opens, less clicks
+  * factors: usability, trust, time
+  * mobile clicks won't ever catch up to desktop
+* but multi-platform openers are high clickers
+* 60% mobile only, 20% mobile+desktop, 20% desktop only
+* click overlay heat maps are a great tool to see if there are big deficits in your design
+* data-driven decisions vs expertise driven decisions (design whims)
+* large dormant percentage of audience masks true impact of improvements
+* purest way to test is with new subscribers
+* "more white space" - every designer
+  * for better results: use data points like increasing readability to justify design decisions
