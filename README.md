@@ -356,4 +356,8 @@ and [Alex Ilhan](https://twitter.com/omgitsonlyalex)
   * create a style guide
 
 
-* what is your full front-end build process? grunt?
+* q for brian: what is your full front-end build process? grunt?
+
+* set expectations for deadlines and signoff
+* take tips from the experts
+  * anna yeaman
