@@ -333,3 +333,4 @@ and [Brent Walter](https://twitter.com/brent_walter)
 * Portland General Electric (PGE) - utility company
   * provide power for 1.5 Million people
   * newsletters for green energy options
+  * wide range of customers
