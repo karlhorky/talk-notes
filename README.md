@@ -231,7 +231,9 @@ by [Ros Hodgekiss](https://twitter.com/yarrcat)
   * roi, making improvements on
 * why?
   * ubiquity
-  *
+  * design-led companies have broken email's old rules
+  * responsive email: mobile first is the new mantra
+  * brands recognize value in quality email design
 
 ### Yesterday ###
 
@@ -261,3 +263,5 @@ by [Ros Hodgekiss](https://twitter.com/yarrcat)
 * make sure it's practical
   * don't *just* procrastinate just by trying out things
 * but also just muck around
+* campaign monitor, mailchimp have great starting template, good boilerplate
+*
