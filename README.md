@@ -292,3 +292,8 @@ Data For Designers
 by [Kristina Huffman](https://twitter.com/krudz)
 and Schuyler Wareham
 
+* it's called art_work_ for a reason, not art_fuckingaround_
+* benchmarks are bullshit - measure for yourself
+* don't get stuck in the world where specific devices matter
+* mobile triage is a myth
+* peak times morning, evening for mobile
