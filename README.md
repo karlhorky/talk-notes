@@ -292,7 +292,7 @@ Data For Designers
 by [Kristina Huffman](https://twitter.com/krudz)
 and Schuyler Wareham
 
-* it's called art_work_ for a reason, not art_fuckingaround_
+* it's called art**work** for a reason, not art**fuckingaround**
 * benchmarks are bullshit - measure for yourself
 * don't get stuck in the world where specific devices matter
 * mobile triage is a myth
@@ -309,3 +309,27 @@ and Schuyler Wareham
 * purest way to test is with new subscribers
 * "more white space" - every designer
   * for better results: use data points like increasing readability to justify design decisions
+
+Responsive Email Case Studies: "First Comes Love, Then Comes Mobile"
+====================================================================
+
+by [Matt Byrd](https://twitter.com/mparkerbyrd)
+
+* best practices: training wheels
+* weddingwire: online wedding planning resource for couples
+  * 1/3 mobile
+  * 76% of engaged couples using smart phone
+  * 65% mobile opens of email
+* get rid of link clusters: reduce links and use buttons instead
+* [retina images](http://wed.li/CMretina)
+* test different from names, subject lines, *pre-header text*
+
+Responsive Email Case Studies : "Adapting to a Multi-Device World: A Utility Company's Perspective"
+===================================================================================================
+
+by [Brian Graves](https://twitter.com/briangraves)
+and [Brent Walter](https://twitter.com/brent_walter)
+
+* Portland General Electric (PGE) - utility company
+  * provide power for 1.5 Million people
+  * newsletters for green energy options
