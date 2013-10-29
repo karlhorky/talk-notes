@@ -221,3 +221,37 @@ by [Colin Nederkoorn](https://twitter.com/alphacolin)
   * +wanted emails
   * +personalized content
 
+What's pushing email design forward?
+====================================
+
+by [Ros Hodgekiss](https://twitter.com/yarrcat)
+
+* yesterday: objective = consistency across platforms
+* today: objective = optimization
+  * roi, making improvements on
+* why?
+  * ubiquity
+  *
+
+### Yesterday ###
+
+* people consume their email at 9am at their desk with outlook.
+
+### Today ###
+
+* explosion of devices and situations
+* tablet sales > laptop
+* us biggest consumer of mobile email, uk just shortly behind
+* +138% mobile opens in last 18 months
+* can't ignore mobile any more
+* not just about getting the best results in your favourite email client - it's about the best results across multiple devices
+* knowing what features can be safely used across the email clients your audience use
+
+### Interesting Companies ###
+
+* Ros is a mac fangirl
+* panic - about pushing the envelope
+  * webfonts
+* diamond resorts
+  * css animations
+  * static headers
