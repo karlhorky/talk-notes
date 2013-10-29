@@ -334,3 +334,12 @@ and [Brent Walter](https://twitter.com/brent_walter)
   * provide power for 1.5 Million people
   * newsletters for green energy options
   * wide range of customers
+
+
+How to Optimize Your Email Workflow
+===================================
+
+by [Brian Graves](https://twitter.com/briangraves)
+and [Becs Rivett](https://twitter.com/becskr)
+and [Alex Ilhan](https://twitter.com/omgitsonlyalex)
+
