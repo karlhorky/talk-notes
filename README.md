@@ -255,3 +255,9 @@ by [Ros Hodgekiss](https://twitter.com/yarrcat)
 * diamond resorts
   * css animations
   * static headers
+
+### Some Advice ###
+
+* make sure it's practical
+  * don't *just* procrastinate just by trying out things
+* but also just muck around
