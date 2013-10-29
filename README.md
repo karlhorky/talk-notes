@@ -292,7 +292,7 @@ Data For Designers
 by [Kristina Huffman](https://twitter.com/krudz)
 and Schuyler Wareham
 
-* it's called art**work** for a reason, not art**fuckingaround**
+* it's called art **work** for a reason, not art **fuckingaround**
 * benchmarks are bullshit - measure for yourself
 * don't get stuck in the world where specific devices matter
 * mobile triage is a myth
