@@ -343,3 +343,17 @@ by [Brian Graves](https://twitter.com/briangraves)
 and [Becs Rivett](https://twitter.com/becskr)
 and [Alex Ilhan](https://twitter.com/omgitsonlyalex)
 
+* do you have all your content, assets, links?
+* will the content work?
+* check the design with the developer
+* create an adaptable design system that's reusable
+  * anticipate use cases
+  * content types in the email
+  * common elements
+  * content hierarchy
+  * design patterns instead of pages
+  * [responsive email patterns](http://briangraves.github.io/ResponsiveEmailPatterns/)
+  * create a style guide
+
+
+* what is your full front-end build process? grunt?
