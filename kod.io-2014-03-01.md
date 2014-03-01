@@ -1,4 +1,4 @@
-The Chroma Zone - Engineering Color on the Web
+[The Chroma Zone - Engineering Color on the Web](http://leaverou.github.io/chroma-zone)
 ==============================================
 
 by [Lea Verou](https://twitter.com/LeaVerou)
@@ -53,3 +53,14 @@ css4
 
 * gray(xx%) - unsupported now, but can be polyfilled with sass
 * adjustors: tint, shade, blend
+
+
+[AngularJS and i18n](http://pascalprecht.github.io/slides/angularjs-and-i18n/#/)
+===================
+
+by [Pascal Precht](https://twitter.com/PascalPrecht)
+
+* professional animated gif executer
+* angularjs
+  * design as if html had been designed for apps (html++ so to say)
+  * two way data binding
