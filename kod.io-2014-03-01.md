@@ -317,3 +317,6 @@ SERF
   * historically heartbeats have been used: exponentially increasing the number of connections
   * SERF does this in a better way - all nodes asks just one random person if they're dead
 
+* Devops moves fast: 9 months ago: packer, docker didn't exist
+  * be aware of lock in risk
+* Hashicorp tries to avoid lock-in
