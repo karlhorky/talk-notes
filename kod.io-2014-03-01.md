@@ -227,3 +227,9 @@ Why help out?
 -------------
 
 * stable software
+* just one dish in the sink at a time - focus on one thing at a time
+* who are you really working for? the whole userbase, not upper management
+* learning
+* empathy - learn how to put yourself in the user's shoes
+  * turned Mike into a socializing human being from an angry sysadmin
+
