@@ -329,7 +329,7 @@ by [Arne Brasseur](https://twitter.com/plexus)
 
 * 1993 - images in browsers, they started worrying if it would scale
   * W3C is formed
-* "architectural styles and the design of network-based software architectures" - title of paper that inspired REST interface
+* "architectural styles and the design of network-based software architectures" by Ray Fielding - paper that inspired REST interface
 
 properties of www at the start
 ------------------------------
@@ -351,4 +351,23 @@ REST
 AJAX (2005)
 -----------
 * client could still not do network requests up until then
-*
+
+Web devs started doing it themselves
+------------------------------------
+* clients and servers need to both know the references/identifiers
+  * the main violation of Ray fielding's thesis
+
+How to adopt hypermedia
+-----------------------
+* define media types
+* define link relations
+
+Benefits of hypermedia
+----------------------
+* discoverability of the API
+* non hardcoded
+* change location of benefits
+* backwards compatibility
+* uniformity, agnosticity across systems - it's just links
+* standardization of vocabularies of media types could lead to semantic web-type of linking between systems
+
