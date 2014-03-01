@@ -377,3 +377,10 @@ Future
 * directory services
 * aggregators
 * vendor-independent client apps
+
+10 Things You Didn’t Know About HTML
+====================================
+
+by [Mathias Bynens](https://twitter.com/mathias)
+
+*
