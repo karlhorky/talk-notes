@@ -155,3 +155,24 @@ git
 postgres
 --------
 
+* wow, all the datatypes! if it were only named better
+* curved and square brackets for inclusive and exclusive ranges
+* hstore
+* JSON
+
+cli
+---
+
+### piping ###
+* grepping / sorting / uniqing git commit messages for commit statistics
+* cutting / xarging / tring / bc to get total migration time
+* pipe viewer - show you the progress of something the command line
+
+### interesting commands ###
+* ```pgrep``` and ```pkill``` find and kill processes by name instead of id
+* ```watch``` - rerun every x seconds
+* ```timeout``` kill a process after x time
+* ```proxylocal``` expose local port to public
+
+### in bash.profile ###
+* ```alias computer,='sudo'``` - ```computer, apt-get install postgresql```
