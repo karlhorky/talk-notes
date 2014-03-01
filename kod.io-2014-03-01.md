@@ -273,8 +273,33 @@ how do we make the lifecycle easier? tools
 
 Vagrant
 -------
+* helps with dev part of lifecycle
 * anyone in your company can clone out a project (whatever language it is), and have all of the tools they need to work
 * virtualbox
 * vagrant separates host and guest machines
   * creates a sync between the two machines
+  * technology agnostic
 * still able to code local on your machine
+* consistency: works on linux, osx, windows
+* new features
+  * ```vagrant share``` makes a public url for your machine
+  * ```vagrant connect``` ssh to a remote vagrant machine
+
+Packer
+------
+* helps with deployment part of the lifecycle (no orchestration)
+* other stuff already in the space: chef, docker, capistrano, puppet
+* optimize the slow parts of the server by building a server
+* devops has been historically against images
+  * why?
+    * 10 years ago, images were the only way servers were deployed
+    * devops people were in a dark corner of the office, alone deploying the images
+    * slow iteration
+* unfortunately we threw away a lot of the improvements
+  * super-fast deployment
+  * ops without machine images is like normal applications without binaries (building from source code)
+  * if one of the dependencies changes, the deploy without machine images can fail
+
+SERF
+----
+* helps with maintenance
