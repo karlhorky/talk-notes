@@ -448,6 +448,15 @@ by [Carina C. Zona](https://twitter.com/cczona)
 ----------------------------------
 * Carina definitely doesn't want a rockstar on their team, touching their code
 
+"Culture fit"
+-------------
+* fear of discomfort
+  * fear of someone new coming in and challenging the status quo
+  * the best products can be created just by allowing change
+* to be able to define ourselves, we need to be able to seek out:
+  * stuff that scares us
+  * disruption
+
 Searching for development talent in non-standard industries
 -----------------------------------------------------------
 * lots of fields have dedication and skills necessary in software engineering:
@@ -455,10 +464,17 @@ Searching for development talent in non-standard industries
   * weaving
   * police officer
   * physical chemistry
+  * law
 * coding is a work ethic
   * should hire people with this work ethic
   * rock stars have an "admire me" ethic, not work ethic
 
 Coding is archaeological
 ------------------------
-*
+* we hunt around in it
+
+Innovative
+----------
+* a team of a bunch of average people vs a team with an expert within it
+  * team with expert comes back with confused, unsure results - limits productivity
+    * self-censorship due to the expert
