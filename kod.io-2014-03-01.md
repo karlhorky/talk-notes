@@ -178,8 +178,8 @@ cli
 * ```alias computer,='sudo'``` - ```computer, apt-get install postgresql```
 
 
-Github
-======
+Make Your and Other People’s Life Easier: Do Support!
+=====================================================
 
 by [Mike Adolphs](https://twitter.com/fooforge)
 
@@ -190,3 +190,10 @@ by [Mike Adolphs](https://twitter.com/fooforge)
   * youtube channel
   * conferences
   * vision: "easier to work together as to work alone"
+
+History of support
+------------------
+* first version of support: your handbag broke, fix it!
+* 1876: telephone
+* advent of telephone: remote support
+* 20th century: call centers, cramming people into cubicles
