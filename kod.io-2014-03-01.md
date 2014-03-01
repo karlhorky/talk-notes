@@ -406,4 +406,8 @@ Character references aka html entities
 * ampersand = &amp;amp; - this is invalid without semicolon
 * semicolons - omitting can cause confusing issues
   * just use them
+
+Tags and Elements
+-----------------
+* end AND start tags are not needed for ```<html>```, ```<body>```, ```<head>``` for valid code
 *
