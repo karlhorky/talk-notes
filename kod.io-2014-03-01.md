@@ -448,3 +448,17 @@ by [Carina C. Zona](https://twitter.com/cczona)
 ----------------------------------
 * Carina definitely doesn't want a rockstar on their team, touching their code
 
+Searching for development talent in non-standard industries
+-----------------------------------------------------------
+* lots of fields have dedication and skills necessary in software engineering:
+  * computational biotechnology
+  * weaving
+  * police officer
+  * physical chemistry
+* coding is a work ethic
+  * should hire people with this work ethic
+  * rock stars have an "admire me" ethic, not work ethic
+
+Coding is archaeological
+------------------------
+*
