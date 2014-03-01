@@ -421,4 +421,10 @@ CSS Without HTML
 Font-family names in css
 ------------------------
 * you can omit the quotes around whitespace-separated families
-*
+
+Attribute values
+----------------
+* you can omit quotes, but watch out
+  * kind of like walking around naked in your house
+  * sometimes html will be valid but css won't be and won't work
+
