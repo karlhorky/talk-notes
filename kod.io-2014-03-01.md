@@ -150,6 +150,8 @@ git
 * ```git rebase --interactive --autosquash``` - holy shit, don't need to do anymore work
 * ```--allow-empty``` for first git init commit
 * ```git log --oneline --decorate``` for one-line log
+* ```git diff --ignore-all-space``` or ```git diff -w``` diffs without whitespace - can be activated as ?w=1 to end of github diff urls
 
 postgres
 --------
+
