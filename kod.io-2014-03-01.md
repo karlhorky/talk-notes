@@ -299,6 +299,7 @@ Packer
   * super-fast deployment
   * ops without machine images is like normal applications without binaries (building from source code)
   * if one of the dependencies changes, the deploy without machine images can fail
+* can be in a CI and builds vagrant images on successful tests
 
 SERF
 ----
