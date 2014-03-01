@@ -116,3 +116,18 @@ Where can we start?
 
 * daily life - talking, why you love what you do
 * support and inspire others
+* family - raise children to follow their dreams, regardless of gender
+* workshops - get people together to get excited about code
+
+Railsgirls summer of code 2013
+------------------------------
+
+* workshop
+* 3-months, full-time, paid
+* raised $80k, were able to support 19 student
+* more joined after as well, total 33 students
+
+Which 5 steps?
+--------------
+
+* there are no five steps, takes hundreds of small actions to change the culture
