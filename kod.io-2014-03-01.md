@@ -26,9 +26,30 @@ rgb
   * both forms are confusing
 * another option: css color names
   * very ugly colors
+  * some newer: super long, racist, or completely crazy (dark gray )
+* currentColor in css3
 * fun rgb / hsl guessing game: [http://leaverou.github.io/whatthecolor](http://leaverou.github.io/whatthecolor)
 
-enter: the JS color class
+hsl
+---
+
+* different coord system: can be mapped to a cone
+* lightness in hsl is not perceptual lightness for us as humans, because it's just a transformation of rgb
+  * lightness is not the same as luminance
+
+enter: relative luminance
 -------------------------
 
-*
+* from wcag 2.0, css4
+* to achieve perceptual lightness, blue is multiplied by smaller number as green as red
+
+alpha blending
+--------------
+
+* compositing two colors and alpha strengths to calculate what the opaque color should be
+
+css4
+----
+
+* gray(xx%) - unsupported now, but can be polyfilled with sass
+* adjustors: tint, shade, blend
