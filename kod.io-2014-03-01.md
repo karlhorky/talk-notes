@@ -330,4 +330,25 @@ by [Arne Brasseur](https://twitter.com/plexus)
 * 1993 - images in browsers, they started worrying if it would scale
   * W3C is formed
 * "architectural styles and the design of network-based software architectures" - title of paper that inspired REST interface
+
+properties of www at the start
+------------------------------
+* low entry barrier
+* incremental deployment
+* transparent references/identifiers - now referred to as URIs
+* extensible
+* simple
+* anarchic scalability
+
+REST
+----
+* constraint of a layered system
+* each layer knows only about the next layer
+* each node has specific responsibilities
+* stateless
+* client doesn't need to know what kinds of systems are serving
+
+AJAX (2005)
+-----------
+* client could still not do network requests up until then
 *
