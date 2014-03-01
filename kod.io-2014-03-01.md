@@ -131,3 +131,25 @@ Which 5 steps?
 --------------
 
 * there are no five steps, takes hundreds of small actions to change the culture
+
+[Fly, You Tools!](http://talks.chastell.net)
+============================================
+
+by [Piotr Szotkowski](https://twitter.com/chastell)
+
+* typical bug hunting: just like lord of the rings
+* piotr working at the warsaw university of tech
+* you know there are some nifty things
+* you read a lot of blog posts
+* you can never remember the tricks
+
+git
+---
+
+* git is like a sharp knife, with the handle also a knife, and then fractals into more knives
+* ```git rebase --interactive --autosquash``` - holy shit, don't need to do anymore work
+* ```--allow-empty``` for first git init commit
+* ```git log --oneline --decorate``` for one-line log
+
+postgres
+--------
