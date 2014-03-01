@@ -410,4 +410,15 @@ Character references aka html entities
 Tags and Elements
 -----------------
 * end AND start tags are not needed for ```<html>```, ```<body>```, ```<head>``` for valid code
+
+CSS Without HTML
+----------------
+* with an empty html document, you can still show some stuff on the screen
+* ```link``` http header can be used to send link to html document
+  * only works in old opera and firefox
+*
+
+Font-family names in css
+------------------------
+* you can omit the quotes around whitespace-separated families
 *
