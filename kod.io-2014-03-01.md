@@ -303,3 +303,11 @@ Packer
 SERF
 ----
 * helps with maintenance
+* decentralized
+* high availability
+
+### Membership management ###
+* tells you when something leaves a cluster, joins, etc.
+* gossip-based membership
+  * best example: zombie apocalypse
+    * nodes tell each other until they all know
