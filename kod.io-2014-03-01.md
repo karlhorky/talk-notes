@@ -432,3 +432,14 @@ Characters in JS
 ----------------
 * string length attr in js is not really char count
 * can account for unicode pairs with punycode libraries
+
+
+Doctor, Lawyer, Poker Player, Physicist: The Best Engineers We're Not Competing to Hire Yet
+===========================================================================================
+
+by [Carina C. Zona](https://twitter.com/cczona)
+
+* "Wanted: CS degree or equiv" - you see this every day
+* the problem is not less people with CS degrees
+* if you don't have a degree, how do you know you have the equiv
+*
