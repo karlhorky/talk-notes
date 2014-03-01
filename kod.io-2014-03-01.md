@@ -428,3 +428,7 @@ Attribute values
   * kind of like walking around naked in your house
   * sometimes html will be valid but css won't be and won't work
 
+Characters in JS
+----------------
+* string length attr in js is not really char count
+* can account for unicode pairs with punycode libraries
