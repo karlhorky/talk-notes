@@ -100,4 +100,19 @@ How to Get More Women in Tech in 5 Steps
 
 by [Anika Lindtner](https://twitter.com/langziehohr)
 
-*
+* Travis CI supporter of Railsgirls from the start
+* very low population of women in
+* traditional answers
+  * "they're just not so good at it"
+  * "they're just not interested"
+  * we know that these are not true
+* stereotypes are much different today than earlier
+* there are no gender-specific abilities
+* missing role models
+* fear of change
+
+Where can we start?
+-------------------
+
+* daily life - talking, why you love what you do
+* support and inspire others
