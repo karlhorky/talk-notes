@@ -61,13 +61,37 @@ css4
 by [Pascal Precht](https://twitter.com/PascalPrecht)
 
 * professional animated gif executer
-* angularjs
-  * design as if html had been designed for apps (html++ so to say)
-  * two way data binding
-    * one single source of truth (within scopes)
-    * declarative views, don't need to write traditional javascript code
-  * directives to define functionality on elements
-  * web components to define your own elements
-  * routes
-  * built with testability in mind
-*
+
+angularjs
+---------
+
+* design as if html had been designed for apps (html++ so to say)
+* two way data binding
+  * one single source of truth (within scopes)
+  * declarative views, don't need to write traditional javascript code
+* directives to define functionality on elements
+* web components to define your own elements
+* routes
+* built with testability in mind
+
+internationalization / localization
+-----------------------------------
+
+* abstracting your strings for use in different languages, countries
+* angular support
+  * datetime, number, currency, ngPluralize
+  * $locale service (from ngLocale)
+  * unfortunately, that's it - can't translate all strings
+
+introducing angular-translate
+-----------------------------
+
+* typical components: services, filters, directives
+* var replacement
+* multi-language
+* fallback languages
+* missing tranlsation support
+* async
+* localStorage to save locale
+* changing the language at runtime with simple controller method
+
