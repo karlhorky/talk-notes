@@ -95,3 +95,9 @@ introducing angular-translate
 * localStorage to save locale
 * changing the language at runtime with simple controller method
 
+How to Get More Women in Tech in 5 Steps
+========================================
+
+by [Anika Lindtner](https://twitter.com/langziehohr)
+
+*
