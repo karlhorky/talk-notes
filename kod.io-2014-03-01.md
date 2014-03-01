@@ -311,3 +311,9 @@ SERF
 * gossip-based membership
   * best example: zombie apocalypse
     * nodes tell each other until they all know
+* 200ms from adding a node to the cluster realizing it
+  * with crazy-high 10% packet loss, 1000ms
+* failure detection
+  * historically heartbeats have been used: exponentially increasing the number of connections
+  * SERF does this in a better way - all nodes asks just one random person if they're dead
+
