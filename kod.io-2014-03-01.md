@@ -207,4 +207,23 @@ Support at github
 * tech support for native clients
 * account support
 * enterprise team -> just enterprise only
-*
+* github trying to merge the two support teams into single team
+* support never stops, but support team deserves to take part in company cultural activities too
+
+### Rules ###
+* never get into a fight with the customer
+* don't insult the customer
+* don't endlessly apologize as an excuse
+* don't pretend to have superpowers - no single human can know everything
+* don't advertise to users without them asking
+* don't let yourself get dragged down
+
+### Superfans ###
+* when you do following, you gain superfans:
+  * support done right and quickly
+  * repo corruption quickly cleaned up
+
+Why help out?
+-------------
+
+* stable software
