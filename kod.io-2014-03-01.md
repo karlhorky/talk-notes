@@ -439,7 +439,12 @@ Doctor, Lawyer, Poker Player, Physicist: The Best Engineers We're Not Competing 
 
 by [Carina C. Zona](https://twitter.com/cczona)
 
-* "Wanted: CS degree or equiv" - you see this every day
+"Wanted: CS degree or equiv" - you see this every day
+-----------------------------------------------------
 * the problem is not less people with CS degrees
 * if you don't have a degree, how do you know you have the equiv
-*
+
+"Wanted: rock star | ninja | guru"
+----------------------------------
+* Carina definitely doesn't want a rockstar on their team, touching their code
+
