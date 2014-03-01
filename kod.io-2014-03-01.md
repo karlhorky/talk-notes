@@ -176,3 +176,17 @@ cli
 
 ### in bash.profile ###
 * ```alias computer,='sudo'``` - ```computer, apt-get install postgresql```
+
+
+Github
+======
+
+by [Mike Adolphs](https://twitter.com/fooforge)
+
+* github is
+  * code hosting
+  * enterprise
+  * git training worldwide
+  * youtube channel
+  * conferences
+  * vision: "easier to work together as to work alone"
