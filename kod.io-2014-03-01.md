@@ -383,4 +383,27 @@ Future
 
 by [Mathias Bynens](https://twitter.com/mathias)
 
+* developer advocate working for Opera
+* talk goes over collection of weird stuff that he didn't know about html, css, javascript
+* once apon a time, there wasn't such a thing as css
+* ```&lt;blink&gt;``` and ```&lt;marquee&gt;``` presentational attributes, shouldn't be using these any more
+* deprecated color attributes like bgcolor just got standardized in html5
+  * all non-hex values are replaced by zero
+  * ```bgcolor="MrT"``` = #000000, blackest black you can get
+  * ```bgcolor="chucknorris"``` = the bloodred of chuck's enemies
+  * [http://mths.be/bgcolor](http://mths.be/bgcolor) - tool to test it out
+
+"Valid HTML"
+------------
+* 3 layers of conformance criteria
+  * DTD - which elements are supported
+    * fails on a placeholder on a input[type="date"]
+    * fails: number of table cols incorrect in subsequent rows
+* functionality trumps validity
+
+Character references aka html entities
+--------------------------------------
+* ampersand = &amp;amp; - this is invalid without semicolon
+* semicolons - omitting can cause confusing issues
+  * just use them
 *
