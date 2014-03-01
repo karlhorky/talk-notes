@@ -386,7 +386,7 @@ by [Mathias Bynens](https://twitter.com/mathias)
 * developer advocate working for Opera
 * talk goes over collection of weird stuff that he didn't know about html, css, javascript
 * once apon a time, there wasn't such a thing as css
-* ```&lt;blink&gt;``` and ```&lt;marquee&gt;``` presentational attributes, shouldn't be using these any more
+* ```<blink>``` and ```<marquee>``` presentational attributes, shouldn't be using these any more
 * deprecated color attributes like bgcolor just got standardized in html5
   * all non-hex values are replaced by zero
   * ```bgcolor="MrT"``` = #000000, blackest black you can get
