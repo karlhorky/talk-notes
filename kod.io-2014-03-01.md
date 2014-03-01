@@ -197,3 +197,14 @@ History of support
 * 1876: telephone
 * advent of telephone: remote support
 * 20th century: call centers, cramming people into cubicles
+* since call centers, support has a bad rep for entry-level employees
+* but support is more like firefighting, enabling user to get back to work
+
+Support at github
+-----------------
+
+* people in 26 timezones all over the world providing support
+* tech support for native clients
+* account support
+* enterprise team -> just enterprise only
+*
