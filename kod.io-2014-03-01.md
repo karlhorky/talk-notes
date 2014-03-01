@@ -471,7 +471,8 @@ Searching for development talent in non-standard industries
 
 Coding is archaeological
 ------------------------
-* we hunt around in it
+* we hunt around in it, looking for some kind of sense or some old lost civilizations that can help us
+* these skills exist in more than just software engineers
 
 Innovative
 ----------
