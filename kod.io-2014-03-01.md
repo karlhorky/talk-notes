@@ -64,3 +64,10 @@ by [Pascal Precht](https://twitter.com/PascalPrecht)
 * angularjs
   * design as if html had been designed for apps (html++ so to say)
   * two way data binding
+    * one single source of truth (within scopes)
+    * declarative views, don't need to write traditional javascript code
+  * directives to define functionality on elements
+  * web components to define your own elements
+  * routes
+  * built with testability in mind
+*
