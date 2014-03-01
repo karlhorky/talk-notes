@@ -371,3 +371,9 @@ Benefits of hypermedia
 * uniformity, agnosticity across systems - it's just links
 * standardization of vocabularies of media types could lead to semantic web-type of linking between systems
 
+Future
+------
+* non-local linking
+* directory services
+* aggregators
+* vendor-independent client apps
