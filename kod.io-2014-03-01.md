@@ -233,3 +233,12 @@ Why help out?
 * empathy - learn how to put yourself in the user's shoes
   * turned Mike into a socializing human being from an angry sysadmin
 
+Vagrant, Packer, Serf: Maximum Potency DevOps
+=============================================
+
+by [Mitchell Hashimoto](https://twitter.com/mitchellh)
+
+* devops used to be easier: just start with chef or puppet
+* now a lot more confusing: much more saturated terain
+* HashiCorp
+  * try to build tools to solve pain points for companies
