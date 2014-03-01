@@ -242,3 +242,39 @@ by [Mitchell Hashimoto](https://twitter.com/mitchellh)
 * now a lot more confusing: much more saturated terain
 * HashiCorp
   * try to build tools to solve pain points for companies
+  * tools: Vagrant, Packer, SERF
+
+application lifecycle
+---------------------
+=== 1) development ===
+* your work should be able to be easily accessible anywhere
+* make changes, see changes (golden circle of code, save, reload)
+* "it works on my machine"
+* collaboration
+=== 2) deployment ===
+* deployment
+  * complex, multiple steps
+  * no companies happy with the
+=== 3) maintenance ===
+* monitoring
+* updating
+* orchestrating (managing load balancing, scaling)
+
+
+* pragmatic goal of devops: making the lifecycle easier
+
+how do we make the lifecycle easier? tools
+------------------------------------------
+* devops tools will make one or more of the three application lifestyle steps easier
+* heroku deals with deployment and maintenance
+* when you build a tool, you remove the need for users to know how it works
+* increase repeatability
+* codification of knowledge
+
+Vagrant
+-------
+* anyone in your company can clone out a project (whatever language it is), and have all of the tools they need to work
+* virtualbox
+* vagrant separates host and guest machines
+  * creates a sync between the two machines
+* still able to code local on your machine
