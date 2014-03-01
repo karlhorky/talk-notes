@@ -321,3 +321,13 @@ SERF
 * Devops moves fast: 9 months ago: packer, docker didn't exist
   * be aware of lock in risk
 * Hashicorp tries to avoid lock-in
+
+2004-2024 : Two Decades of Web Services, A Retrospective
+========================================================
+
+by [Arne Brasseur](https://twitter.com/plexus)
+
+* 1993 - images in browsers, they started worrying if it would scale
+  * W3C is formed
+* "architectural styles and the design of network-based software architectures" - title of paper that inspired REST interface
+*
