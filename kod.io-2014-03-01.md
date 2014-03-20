@@ -28,7 +28,7 @@ rgb
   * very ugly colors
   * some newer: super long, racist, or completely crazy (dark gray )
 * currentColor in css3
-* fun rgb / hsl guessing game: [http://leaverou.github.io/whatthecolor](http://leaverou.github.io/whatthecolor)
+* fun rgb / hsl guessing game: [http://leaverou.github.io/whathecolor/](http://leaverou.github.io/whathecolor/)
 
 hsl
 ---
