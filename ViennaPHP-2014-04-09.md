@@ -138,7 +138,13 @@ by [Florian Eckerstorfer](https://twitter.com/Florian_)
 * Gruntfile.js - configuration for tasks
 * tasks for stuff like
   * cssmin - css minification
-  * phpunit and symfony2
+  * watch - watch your filesystem and execute stuff
+  * concurrent - more tasks at once
+  * load config - split config up into multiple files
+  * phpunit
+  * symfony2
+  * phpcs (checkstyle)
+  * phpmd (mess detector)
 * backend and frontend tasks
 * async - watching for changes and executing tasks
 * totally plugin based
