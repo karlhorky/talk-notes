@@ -126,3 +126,15 @@ some best practice tweaks
 * use internal load balancing
 * ifs are bad
 
+Grunt.js for developers
+=======================
+
+by [Florian Eckerstorfer](https://twitter.com/Florian_)
+
+* what is grunt?
+  * a task runner
+  * like phing, make, ant, etc
+  * written in js, not anything to do with the browser
+* Gruntfile.js - configuration for tasks
+* tasks for stuff like
+  * cssmin - css minification
