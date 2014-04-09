@@ -57,3 +57,4 @@ low hanging fruit
 * reduce http reqs
 * reduce number of bytes transferred
 * simpler DOM
+* domain sharding (assets on different subdomain so that cookies don't need to be transferred)
