@@ -71,3 +71,58 @@ by [Jakob Oberhummer](http://www.meetup.com/viennaphp/members/96722012/)
   * nginx
   * lighthttp
   * Microsoft IIS
+* underdogs
+  * litespeed
+  * abyss
+  * boa
+  * cherokee
+  * mongoose
+  * more
+* language-specific
+  * Java: Tomcat, Jetty, Jo!, many more
+  * Ruby: Thin, WeBrick, Rack, puma
+  * others: simplehttprequesthandler (python), boost (c++), connect (node), PHP-FPM
+* history
+  * Apache:
+    * 1995 first release
+    * 8 devs
+    * 53% of market
+  * IIS
+    * 1995
+    * EMWAC
+    * thread-based
+  * litespeed
+    * 2002
+    * George Wang
+  * Nginx
+    * 2002
+    * igor sysoev
+    * low memory consumption, high output
+  * LightHTTP
+    * 2003
+    * Jan Kneschke
+    * is it possible to handle 10k connections at once
+  * cherokee
+    * 2011
+    * many contributers on github
+* types
+  * thread based: one thread for each client
+  * thread pool: better handling of threads
+  * event driven: client sends req to async web server which sends to queue, which sends to a req handler and on to a callback service
+    * easier to control load
+
+some best practice tweaks
+-------------------------
+* compress your data
+* cache as much as possible
+* reduce redundant requests
+* load balance if possible
+
+### Apache 2.2 ###
+* reduce keep-alive (cpu/requests)
+* reduce TTL of a thread (memory)
+
+### Nginx ###
+* use internal load balancing
+* ifs are bad
+
