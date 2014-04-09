@@ -59,3 +59,15 @@ low hanging fruit
 * simpler DOM
 * domain sharding (assets on different subdomain so that cookies don't need to be transferred)
 
+Apache vs. Nginx
+================
+
+by [Jakob Oberhummer](http://www.meetup.com/viennaphp/members/96722012/)
+
+* a web server is
+  * a server running on a port that receives and outputs http, processing in the middle
+* common web servers
+  * apache
+  * nginx
+  * lighthttp
+  * Microsoft IIS
