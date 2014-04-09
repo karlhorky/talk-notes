@@ -37,7 +37,7 @@ how to measure
 * google page speed
 * yslow
 * webpagetest.org
-* [https://github.com/macabre/phantomas](https://github.com/macabre/phantomas)
+* [https://github.com/macbre/phantomas](https://github.com/macbre/phantomas)
 
 best practices
 --------------
@@ -58,3 +58,4 @@ low hanging fruit
 * reduce number of bytes transferred
 * simpler DOM
 * domain sharding (assets on different subdomain so that cookies don't need to be transferred)
+
