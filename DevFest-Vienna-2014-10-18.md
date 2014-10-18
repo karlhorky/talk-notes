@@ -51,4 +51,18 @@ by [Marc Edem Aziahome](https://plus.google.com/+MarcEdem)
 
 ### Google prediction API
 
-*
+* predict behavior of users
+* pattern matching capabilities
+* machine learning capabilities
+
+### How to use the prediction API
+
+* get some training data
+* upload
+* let it analyse it and come up with results
+
+### Sentiment analysis
+
+* text processing with natural language processing
+* determines whether tweet is positive or negative
+
