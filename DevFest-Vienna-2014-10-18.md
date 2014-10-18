@@ -125,3 +125,10 @@ by [Gerwin Sturm](https://twitter.com/Scarygami)
   * the deploy service won't have your secrets
   * unless you can save the secrets in the environment somehow
     * you need to trust the service in this case
+
+App Distribution and Revenue Models
+-----------------------------------
+
+by [Maxim Mai](https://twitter.com/MaximFMai)
+
+
