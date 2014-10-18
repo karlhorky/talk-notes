@@ -57,9 +57,15 @@ by [Marc Edem Aziahome](https://plus.google.com/+MarcEdem)
 
 ### How to use the prediction API
 
-* get some training data
+* harvest data
+* label the data
 * upload
-* let it analyse it and come up with results
+* let it analyse it and come up with predictions
+
+### Some helpful software
+
+* Rapidminer
+* WEKA
 
 ### Sentiment analysis
 
