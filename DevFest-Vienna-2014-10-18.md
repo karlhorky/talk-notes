@@ -89,6 +89,12 @@ by Andreas Hubmer
   * RPC
   * RequestFactory
 
-### UI Components for:
-* selecting one user from thousands of data sets
-*
+### UI Component for selecting one user from thousands
+
+* GWT CellTable
+* we don't want to send all the data to the clientside
+* doing this on the database, and quickly
+* storing state
+  * option 1: storing state in db
+  * option 2: local storage
+  * option 3: storage in the url (supported by GWT)
