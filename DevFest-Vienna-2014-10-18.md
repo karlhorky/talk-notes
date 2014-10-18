@@ -73,3 +73,22 @@ by [Marc Edem Aziahome](https://plus.google.com/+MarcEdem)
 
 * text processing with natural language processing
 * determines whether tweet is positive or negative
+
+UI Components for Large Amounts of Data
+---------------------------------------
+
+by Andreas Hubmer
+
+* two examples using GWT
+
+### GWT
+
+* framework for complex SPAs
+* one language - Java
+* transports
+  * RPC
+  * RequestFactory
+
+### UI Components for:
+* selecting one user from thousands of data sets
+*
