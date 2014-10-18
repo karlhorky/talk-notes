@@ -131,4 +131,77 @@ App Distribution and Revenue Models
 
 by [Maxim Mai](https://twitter.com/MaximFMai)
 
+* works for Dublin's Online Partnership Group
+* Launchpad in Berlin
 
+  * helps early startups focus on what matters
+  * quote from [_dkatz](https://twitter.com/_dkatz)
+    * "build an app that delivers value"
+    * "define target audience"
+    * "reach target audience"
+    * "generate revenue"
+
+* App revenue models is a jungle
+
+  * Freemium
+  * SAAS
+  * Pay-to-DL
+  * Selling Data
+  * Value-Add to existing product
+
+### Understanding your audience
+
+* mid-stage startups "if I track activations and retention rate already, why should I track anything else?"
+  * there is lots to track that offers benefit
+    * customer segments
+    * user journey
+    * revenue
+    * a/b testing
+* example: dating app
+  * male users don't have enough contact from females
+  * app gets boring
+  * one solution: change the algorithm by which the non-contacted males show up for the female users
+  * another: offer premium memberships to the males to be more visible
+* example: german app with 2M active users without any monatization
+  * solution: many ad views in the app, but all disabled
+  * tested all different app views with Google Tag Manager without re-releasing app
+* more than 90% of app downloads are free downloads
+  * 15% of users will make in-app purchases
+* this year: 25% in-app purchases, 10% ads
+* 2017: 50% IAP, 15% ads
+* in a large need to generate user trust before they
+* find the sweet spot for pricing for different customer segments for best monatization
+
+### How
+
+* do not do banners - do interstitials instead (full screen ads)
+  * do not use interstitials before user gets to content - they will be pissed off
+* get users used to splash screens with important information
+* video is high impact
+* cache your ads
+
+### Mediation
+
+* try to diversify between different ad networks
+* prices for each impressions
+  * format and medium
+  * country
+  * really important: how many times an ad was shown to a specific user per day
+    * build a counter in your app for how many ad impressions for a specific user
+
+### Global Targeting
+
+* instead of just targeting locally, you can maximize your reach if you:
+  * think outside of the local box
+  * think how international users will use it
+
+### App Design
+
+* algorithms for featuring in the play store use these criteria
+  * don't break the design guidelines
+  * optimize for many tablet sizes
+  * only ask for permissions you really need
+  * stay above 4.0 stars in play store reviews
+* creative ways of asking users for feedback
+  * "awesomeness" slider - an alternate interface for the play store reviews
+* use alpha and beta testers
