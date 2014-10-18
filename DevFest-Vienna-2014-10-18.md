@@ -205,3 +205,15 @@ by [Maxim Mai](https://twitter.com/MaximFMai)
 * creative ways of asking users for feedback
   * "awesomeness" slider - an alternate interface for the play store reviews
 * use alpha and beta testers
+* case study: recipes startup - could a freemium model work?
+  * found a solution with testing testing testing
+* viral - be careful
+  * can be very powerful
+* app indexing
+* cross-promotion of your own apps
+  * bartering - promotion in a group
+
+### Sustainable revenue models
+
+* re-engaging / retaining users is more sustainable than acquiring new users
+
