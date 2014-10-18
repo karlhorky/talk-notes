@@ -98,3 +98,30 @@ by Andreas Hubmer
   * option 1: storing state in db
   * option 2: local storage
   * option 3: storage in the url (supported by GWT)
+
+Keeping your Secrets Secret in an Open Source Project
+-----------------------------------------------------
+
+by [Gerwin Sturm](https://twitter.com/Scarygami)
+
+* open source is great, but...
+* ...do not expose client secrets to the open-source community
+  * passwords
+  * api keys
+  * etc
+
+### Solutions
+
+* not so good: separate repositories
+* better: separate this out into a separate file
+  * be careful that you don't accidentally commit the secret file to the code
+* .gitignore
+* git hooks can also be used - but complex when you have more contributers
+* Google Web Toolkit solutions available
+
+### Automatic deploy
+
+* this will not work with the file exclusion approach
+  * the deploy service won't have your secrets
+  * unless you can save the secrets in the environment somehow
+    * you need to trust the service in this case
