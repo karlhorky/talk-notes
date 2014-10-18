@@ -54,6 +54,8 @@ by [Marc Edem Aziahome](https://plus.google.com/+MarcEdem)
 * predict behavior of users
 * pattern matching capabilities
 * machine learning capabilities
+* larger data sets = better results
+* minimum data set size
 
 ### How to use the prediction API
 
@@ -62,7 +64,7 @@ by [Marc Edem Aziahome](https://plus.google.com/+MarcEdem)
 * upload
 * let it analyse it and come up with predictions
 
-### Some helpful software
+### Some helpful software to process the data
 
 * Rapidminer
 * WEKA
@@ -71,4 +73,3 @@ by [Marc Edem Aziahome](https://plus.google.com/+MarcEdem)
 
 * text processing with natural language processing
 * determines whether tweet is positive or negative
-
