@@ -37,3 +37,18 @@ by [Floor Drees](https://twitter.com/floordrees)
 * communities available
 * license details
 * badges for build status
+
+Sentiment Analysis with the Google Prediction API
+-------------------------------------------------
+
+by [Marc Edem Aziahome](https://plus.google.com/+MarcEdem)
+
+### Why do we need it
+
+* the application is business intelligence
+* visibility into feedback to competitors' products
+* analysing global market trends
+
+### Google prediction API
+
+*
