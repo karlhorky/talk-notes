@@ -282,3 +282,31 @@ by [Monica Dinculescu](https://twitter.com/notwaldorf)
 - but there's a better option - define a styling API through CSS custom properties and mixins for the custom elements
   - this enables themes
 
+## Polymer's Animation System
+
+by [Yvonne Yip](***)
+
+- animations help users understand how an application works by creating connections between views
+- Polymer philosophy: everything is an element
+  - even animations
+
+### Animation elements
+- reusability
+- pluggability (combining animations)
+- flexibility (configurability)
+- easy to use
+
+### Web animations ([w3c spec](https://w3c.github.io/web-animations))
+- nested and sequenced animations
+- powerful animations at runtime without css
+- playback controls
+- jank free
+- keyframeEffects allow you to animate keyframes
+  - groupEffects allow animations of multiple elements at the same time
+
+### Neon Elements from Polymer
+- divide elements into animatable and animations
+- makes keyframeEffects easier
+- you can add event listeners for the animations
+- sharedElements property can be used to define elements that persist across views
+
