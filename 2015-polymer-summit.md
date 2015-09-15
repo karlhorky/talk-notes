@@ -90,3 +90,30 @@ by [Rob Dodson](https://twitter.com/rob_dodson)
 - Problem: productionizing your app
 - Solution: use gulp build chain and a PAAS like Firebase Hosting
 
+## [Using ES2015 (ES6) with Polymer](https://github.com/ebidel/polymer-experiments)
+
+by [Eric Bidelman](https://twitter.com/ebidel)
+
+- ES2015: new features coming to browsers
+- you can actually use a lot of the features in the newest browsers today
+- template tags and custom elements and other specs of web elements are the base of the web platform
+- polymer is built on top of this
+- Polymer wants to evolve with the web platform
+- Pull request for ES6 open in the polymer repo
+  - classes
+
+### Intro to small ES6 features
+
+- Spread operator: accept arrays as parameters, expand
+- default parameters in function definitions
+- arrow functions
+  - shorter function definitions with arrows
+  - this is lexically scoped
+- Object literal shorthand - shorter definitions of methods
+- template strings
+  - finally multiline strings
+  - variable substitution (interpolation)
+  - tagged template strings - apply functions to a string (can be used for metaprogramming)
+- real class syntax with keyword
+  - can be used to define custom elements extended from other html elements, either with vanilla custom elements or through Polymer
+
