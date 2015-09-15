@@ -340,3 +340,31 @@ by [Dan Freedman](https://twitter.com/danfreedman)
 - drag and drop that actually works
 - can be locked to an axis
 
+## A11y with Polymer
+
+by [Alice Boxhall](***), [Laura Palmaro](***)
+
+- what are accessible technologies: services and products for people with disabilities
+- 1 in 6 in the world has a disability
+- what's important is customizability of the UI (zooming)
+- some users that need accessible technologies:
+  - users that need screen capturing
+  - users that need sign language output
+  - users with difficulty or inability using hardware like physical mice
+  - users with dyslexia - needs help with keeping focus
+  - aging population
+
+### Polymer
+- polymer team created best-practices checklist for elements
+- the team maintains an a11y testing snapshot
+- custom elements can have attributes like tabIndex defined using hostAttributes
+- &lt;iron-a11y-keys-behavior&gt; - abstracted API for key events
+- iron has mixin behaviors
+- paper elements are finished elements built for accessibility
+
+### Accessibility developer tools
+- contrast ratio tester
+
+
+- "disability is the interaction between individuals with a health condition, and personal and environmental factors" - World Health Organization
+
