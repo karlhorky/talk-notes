@@ -117,3 +117,45 @@ by [Eric Bidelman](https://twitter.com/ebidel)
 - real class syntax with keyword
   - can be used to define custom elements extended from other html elements, either with vanilla custom elements or through Polymer
 
+## Testing Polymer Web Components
+
+by [Chris Joel](https://twitter.com/robodynamo)
+
+- assumption: web components are difficult to test
+- reality: it's actually not too hard
+
+### Principles of testing
+- repeatability
+- DRY
+
+### Web Component Tester
+- mocha, chai, sinon
+- selenium built in (multiple browsers)
+- Sauce labs is built in
+- extensible
+- easy as creating an html document for the test
+  - including WCT at the top, and then the element
+  - adding the element
+  - writing a test for the element
+  - can be run in the browser
+  - WCT automates multiple browsers
+
+### Leaky state in HTML
+- state leak is a common accident in test suites
+  - setting properties that affect other tests (global elements)
+  - order dependency
+- there's an element for that - &lt;test-fixture&gt;
+  - automatically tears down html by removing from the DOM
+
+### More tools
+- stub - mocha helper
+  - substitutes methods on elements to capture side effects
+  - uses sinon spies under the hood
+- replace - mocha helper
+  - replace elements with other elements to avoid side effects
+
+### Accessibility
+- Accessibility Developer Tools - chrome extension
+- for doing an audit on your site
+- these development tools are integrated in the WCT now (a11ySuite())
+
