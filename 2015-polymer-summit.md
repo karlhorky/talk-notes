@@ -268,3 +268,17 @@ by [Zach Gibson](***), [Yuin Chen](***), [Addy Osmani](https://twitter.com/addyo
 - resizer
 - material design spec
 
+## Polymer's Styling System (how to style elements without dragons)
+
+by [Monica Dinculescu](https://twitter.com/notwaldorf)
+
+- open source is great for CSS
+- but everything is global in CSS unfortunately
+  - traditionally, you just have to name things uniquely, which doesn't scale
+- the shadow DOM helps: scoping for CSS
+- but problems with the shadow DOM - you cannot style inside the shadow DOM
+  - except for /deep/ and ::shadow
+  - but these are hacky and break the promise of encapsulation
+- but there's a better option - define a styling API through CSS custom properties and mixins for the custom elements
+  - this enables themes
+
