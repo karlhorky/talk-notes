@@ -63,3 +63,30 @@ by [Kevin Schaaf](https://twitter.com/kevinpschaaf)
 - this &lt;input-header&gt; element can now be integrated into a parent for the message thread
 - the thread element can also include a dom-repeat element for all the messages
 
+
+## [End to end with Polymer](https://polymer-todo.firebaseapp.com)
+
+by [Rob Dodson](https://twitter.com/rob_dodson)
+
+- Problem: starting is difficult (staring at a blank page). Web development is complicated with all the different tooling and libraries. Researching takes a lot fo time, and you don't make any progress.
+- Solution: polymer starter kit
+  - responsive app layout
+  - routing
+  - components for almost any app
+  - unit test support with Web Component Tester
+  - complete build chain to bringing it to production
+
+- Problem: breaking up an app into smaller components
+- Solution: analysis of the needs of an application
+
+### Example App - Todo list
+- data element: may seem strange to put this in the html, but an easy pattern to sync data declaratively
+
+- Problem: persisting data
+- Solution: use a JavaScript API of a Database as a Service such as Firebase
+
+- Firebase supports intermittent or offline connections too with a local cache of the data to be written when the user comes online again
+
+- Problem: productionizing your app
+- Solution: use gulp build chain and a PAAS like Firebase Hosting
+
