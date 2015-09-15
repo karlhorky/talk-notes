@@ -342,7 +342,7 @@ by [Dan Freedman](https://twitter.com/danfreedman)
 
 ## A11y with Polymer
 
-by [Alice Boxhall](https://twitter.com/sundress), [Laura Palmaro](***)
+by [Alice Boxhall](https://twitter.com/sundress), [Laura Palmaro](https://plus.google.com/+LauraPalmaro1/posts)
 
 - what are accessible technologies: services and products for people with disabilities
 - 1 in 6 in the world has a disability
@@ -429,7 +429,7 @@ by [Addy Osmani](https://twitter.com/addyosmani)
 
 ## Doing a Perf Audit of your Polymer App
 
-by [Paul Irish](***)
+by [Paul Irish](https://twitter.com/paul_irish)
 
 - slowness can be ambiguous
 
