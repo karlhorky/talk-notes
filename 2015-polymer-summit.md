@@ -159,3 +159,40 @@ by [Chris Joel](https://twitter.com/robodynamo)
 - for doing an audit on your site
 - these development tools are integrated in the WCT now (a11ySuite())
 
+## Platinum Elements (Service Worker)
+
+by [Mat Scales](https://twitter.com/wibblymat)
+
+- Platinum Elements: making using the greatest and latest web platform features easy
+  - Offline, push and more
+- Lots of cool new features, but tons to learn and lots of code
+- most of the features are implemented in just a few newest browser (or just Chrome)
+  - graceful degradation for other browsers
+
+### Offline
+- removing dependency on the network
+- saving all app resources on the device
+- offline support is not just useful for people without any connectivity - also for he larger set of people with bad connectivity
+  - also for people with good connections - don't need to go to the network at all in some cases
+- games, for instance, can be completely offline
+- there's an element for that
+  - &lt;platinum-sw&gt;
+  - service worker acts as an intermediary between the app and the server, writing to and reading from a cache
+- cache strategies
+  - networkOnly - only from network
+  - networkFirst - try network first
+  - cacheFirst - use cache first if available - can be used for read-through caching
+  - fastest - use the fastest out of network and cache
+  - you can define your own cache strategy
+
+### Messaging (push notifications)
+- you get a message when something happened on a remote server
+- there's an element for that - &lt;platinum-push-messaging&gt;
+- can be set up with Google Cloud Messaging
+
+### Device access (experimental - only on ChromeOS)
+- access to external bluetooth devices such as heart sensors, etc.
+- Web Bluetooth API
+- there's an element for that - &lt;platinum-bluetooth-device&gt;
+- not all devices are passive - this can be used to actively control devices as well
+
