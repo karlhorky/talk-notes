@@ -214,7 +214,7 @@ by [Surma](https://twitter.com/surmair)
 
 ## Adaptive UI with Material Design and Paper Elements
 
-by [Zach Gibson](***), [Yuin Chen](***), [Addy Osmani](https://twitter.com/addyosmani)
+by [Zach Gibson](https://twitter.com/zachgibson), Yuin Chen, [Addy Osmani](https://twitter.com/addyosmani)
 
 - the trick is to understand patterns we can use and the different capabilities of the user's browser and device to design across multiple devices
 - material design - single, unified pattern
@@ -284,7 +284,7 @@ by [Monica Dinculescu](https://twitter.com/notwaldorf)
 
 ## Polymer's Animation System
 
-by [Yvonne Yip](***)
+by [Yvonne Yip](https://twitter.com/morethanreal)
 
 - animations help users understand how an application works by creating connections between views
 - Polymer philosophy: everything is an element
@@ -342,7 +342,7 @@ by [Dan Freedman](https://twitter.com/danfreedman)
 
 ## A11y with Polymer
 
-by [Alice Boxhall](***), [Laura Palmaro](***)
+by [Alice Boxhall](https://twitter.com/sundress), [Laura Palmaro](***)
 
 - what are accessible technologies: services and products for people with disabilities
 - 1 in 6 in the world has a disability
@@ -368,3 +368,167 @@ by [Alice Boxhall](***), [Laura Palmaro](***)
 
 - "disability is the interaction between individuals with a health condition, and personal and environmental factors" - World Health Organization
 
+## Polymer power tools
+
+by [Addy Osmani](https://twitter.com/addyosmani)
+
+- tools for productivity
+- japan: huge on automation
+  - good balance between automation and manual craftsmanship
+    - bike automatic parking system: automatic
+    - paper cranes: manual
+- "if you want to be fast, you have to give up on the things that are keeping you slow"
+- many many js / html declarative tools
+- polymer team uses two package managers: bower and npm
+
+### &lt;seed-element&gt;
+- starter custom element included in the polymer starter kit
+- includes generated documentation - for documentation driven development
+
+### polyserve
+- serve the documentation of custom elements
+
+### gp.sh
+- publish to GitHub pages
+
+### polyup
+- upgrade your polymer elements from 0.5 to 1.0
+
+### unit testing elements with Web Component Tester
+- tool that works on top of mocha and chai
+- can load multiple suites with loadSuites
+- -l option to run tests in specific browser
+- -p keep browser alive
+
+### productionizing our apps (build processes)
+- Vulcanize
+  - concat all html imports for production
+  - inlining scripts and imports
+- Crisper
+  - make html files CSP compliant
+- Polybuild
+  - combines vulcanize, crisper, polyclean
+  - maximum-crush option for maximum minification
+- Polylint
+  - linting for possible errors in elements
+- Polygit
+  - stateless CDN compatible with deduping
+  - load your html imports with urls
+
+### Other tools
+- Sublime and Atom snippets from Rob Dodson
+- PolySearch - search for elements
+- Polymer dev tools extension - help with performance
+- Polymer DevTools - electron-based desktop editor
+
+### Polymer use in the web
+- in many Google properties and tools
+
+### Polymer starter kit 1.1
+- recipes for es6
+
+## Doing a Perf Audit of your Polymer App
+
+by [Paul Irish](***)
+
+- slowness can be ambiguous
+
+### what is slow?
+- it's contexual - 10ms in a web store not so important, but in every webgl frame would kill it
+- let's go back to the drawing board: focusing on the user
+- success vs performance graph is not linear
+  - the success is very low with low performance
+- perception times for users are feelings-based
+- categories of user activity:
+  - page load (should be ready to use in 1000ms)
+  - idle
+  - response to input (should be &lt;100ms (instantaneous to user))
+  - scrolling and animation (each frame in less than 16ms)
+
+### example: reddit mobile app
+- 50s load time
+- tons of JavaScript - 1.1MB gzipped
+
+### example: google patents
+- total 3s loading time
+- two acts: one for the click, one for the XHR
+  - the XHR destroys the page content and reconstructs it with innerHTML with the response
+- screenshots checkbox in chrome dev tools (in Canary)
+
+## Polymer Performance Patterns
+
+by [Eric Bidelman](https://twitter.com/ebidel)
+
+- load
+  - how fast does your app paint pixels, how fast does it load
+- render
+  - animations
+- future
+  - future apis for perf
+- performance:
+  - "the extent to which an investment is profitable, especially in relation to other investments"
+  - or: "the extent to which an app is usable, especially in relation to other apps"
+- 250ms: sweet spot
+- polymer 1.0 is much faster
+- you need to load:
+  - the web components polyfill
+  - your elements through imports
+  - the markup for the elements
+- but...
+  - the polyfill blocks rendering the page while loading (fix: async property)
+  - imports blocks as well (fix: async imports)
+    - they are not async by default because they need to be loaded to be used by the author
+    - but you can also import them in JS with Polymer
+  - the polyfill is loaded in all browsers
+
+### Example: stock ticker app
+- 6.2x faster with the async version
+
+### Second Example
+- because async used, on a 2G connection, there is a flash of unstyled content with the un-upgraded custom elements
+- App shell - progressively enhanced html
+  - style the page similar to the final loaded version
+  - style un-upgraded elements using :unresolved pseudoelement
+  - -100ms to first paint
+
+### [polymail app](polymail.appspot.com)
+
+#### Desktop
+- 589ms first paint
+- 1s total load
+- 1144 speed index
+
+#### Mobile
+- 1s
+- ~7s total load
+
+### Quick tips for faster apps
+- use native shadow DOM
+- use touch events instead of click events (on-tap instead of on-click)
+- avoid jank by hijacking click events
+- minimize property reflection
+  - only for styling purposes
+- don't create 1000s of component instances
+- do lazy-load elements
+
+### chromestatus.com case study
+- clicking feature panel reveals more
+- generating 1800 icons
+- generate fewer elements
+- use &lt;iron-list&gt;
+- don't use dom-if on template tag
+
+### Future
+- preload an import with `rel="preload"`
+- HTTP/2 push - set this up on the server to push down resources to the browser early
+  - load time reduced in [example](http://goo.gl/mnQ5rN) by ~60%
+
+## PolyPanel
+
+by The Polymer Team
+
+Can Polymer apps be built for SEO?
+
+The same SEO issues with other JavaScript applications apply to Polymer apps. A service such as prerender.io would be needed to pre-render the html before it comes from the server.
+
+>> I wonder about isomorphic?
