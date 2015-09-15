@@ -210,3 +210,61 @@ by [Surma](https://twitter.com/surmair)
 
 ### Hiding complexity
 - try to break components into sub-elements as much as possible
+
+
+## Adaptive UI with Material Design and Paper Elements
+
+by [Zach Gibson](***), [Yuin Chen](***), [Addy Osmani](https://twitter.com/addyosmani)
+
+- the trick is to understand patterns we can use and the different capabilities of the user's browser and device to design across multiple devices
+- material design - single, unified pattern
+- material design is Google's reference design pattern for the web
+- 100k material projects
+- adaptive design: provides the appropriate content, in the right form, based on context, content, input method, user needs and device limitations
+- material design team and polymer team are starting with:
+  - nomenclature
+  - grids
+  - breakpoints
+  - design guidelines
+  - smart paper elements
+
+### Defining Nomenclature
+- what it is
+- temporal (persistent, temporary)
+- its location
+- what it contains
+- its behavior
+
+### Grid
+- defining a 12-column grid that works in most situations
+
+### Breakpoints
+- creating consistency in layouts across many device screen sizes
+
+### Polymer and material breakpoints
+- all breakpoints are included in Polymer starter kit
+- &lt;iron-media-query&gt; - data-binding and callbacks for media queries
+
+### Position
+- optimizing position and sizing of elements for the screen size
+
+### Transforms
+- ex. left nav pattern is normal on mobile phones, but a nav bar may be better on desktop
+
+### Reflowing
+- moving components or columns around
+
+### Reveal
+- revealing more options or content on different screens
+
+### Dividing
+- dividing screens based on size
+
+### Expanding
+- surfaces expanding on different screen sizes
+
+### Resources
+- device library
+- resizer
+- material design spec
+
