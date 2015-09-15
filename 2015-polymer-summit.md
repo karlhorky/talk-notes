@@ -310,3 +310,33 @@ by [Yvonne Yip](***)
 - you can add event listeners for the animations
 - sharedElements property can be used to define elements that persist across views
 
+## Lightning Talk: Upgrading to 1.0 with polyup
+
+by [Peter Burns](https://twitter.com/rictic)
+
+- 0.5 to 1.0
+  - massive performance improvements
+  - Shadow DOM polyfill and Data binding system were rewritten
+
+### polyup
+- node.js binary to transform your code to 1.0
+- how is this possible? because Polymer is declarative
+  - declarative code is simple, and can be parsed and upgraded much easier than imperative code
+
+## Lightning Talk: Polymer's Gesture System
+
+by [Dan Freedman](https://twitter.com/danfreedman)
+
+- why are gestures important? they allow the user to quickly interact with applications based on devices capabilities
+- polymer team made a gesture system
+
+### down and up
+- abstracted listeners for mousedown, mouseup, touchstart and touchend
+
+### tap
+- abstracted listener for click
+
+### track
+- drag and drop that actually works
+- can be locked to an axis
+
