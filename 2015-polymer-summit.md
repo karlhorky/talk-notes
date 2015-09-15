@@ -196,3 +196,17 @@ by [Mat Scales](https://twitter.com/wibblymat)
 - there's an element for that - &lt;platinum-bluetooth-device&gt;
 - not all devices are passive - this can be used to actively control devices as well
 
+## There's an element for that - but what if there isn't?
+
+by [Surma](https://twitter.com/surmair)
+
+- design patterns to integrate well with the ecosystem
+- if you want to wrap an API such as your own
+  - hide the complexity, but keep configurability
+
+### Demo: reddit element wrapping the read-only Reddit API
+- using jsonp
+- keeping the API URL declarative in the html
+
+### Hiding complexity
+- try to break components into sub-elements as much as possible
