@@ -173,3 +173,54 @@ by [Verena Hubertz](https://twitter.com/verenahubertz)
 - people want to help if you reach out (networking)
 - multilingual nature
 
+## Silicon Valley Starts everywhere
+
+by [Jon Soberg](https://twitter.com/Jon_Soberg)
+
+- Jon: managing partner at Expansive Ventures
+- innovation is exploding
+  - innovation industries are trending vs rest of silicon valley industries
+- favorite topic of silicon valley: unicorns (1000x roi)
+- since 2003, only 182 companies are billion-dollar companies
+  - odds are very small to build one of these
+  - North america has 99 of these
+    - expertise in hyperscaling
+- capital doesn't lead success: capital follows success
+- many companies in silicon valley did not start there
+  - they move there to grow
+  - 46% of silicon valley vc-funded companies are started by immigrants
+- huge uptake in europe investments
+  - growth of vc investments in germany very strong
+- ecosystem in germany is growing rapidly (fraction of the time that it took silicon valley the first time)
+- berlin #9 worldwide city for startups, but growth index is faster than any other on top 10
+
+### Silicon Valley
+
+- high avg seed round (~$1M)
+- 35% startup founders experienced with hypergrowth
+- 14-19k avg startup output
+- avg salary $120k
+- 48% employees with startup experience
+
+### Berlin
+
+- $550k avg seed
+- 12% founders with hypergrowth experience
+- 1.8-3k avg startup output
+- avg salary $60k
+- 49% employees with startup experience (5-10 years ago, not even close to this)
+
+### Takeaways
+
+- Berlin founders have as much startup experience as Silicon Valley founders
+- Silicon Valley has 3X more experience in hyper-growth startups
+- Berlin has much lower talent costs
+- Silicon Valley companies raise 2X more seed capital
+- Silicon Valley companies produce 7X more value
+
+### Where do we go from here?
+
+- hyper-growth experience takes time
+  - this will happen faster than ever due to globalization
+- large talent cost advantages in Berlin
+- the success will bring greater investment
