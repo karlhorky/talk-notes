@@ -231,3 +231,26 @@ by [Jon Soberg](https://twitter.com/Jon_Soberg)
 - focused on top founders
 - lead large early rounds
 - provide a global network of support
+
+## Lessons Learned from the Valley Pioneers & Reinventing Yourself
+
+by [Nicole DeMeo](https://twitter.com/techiecat)
+
+- lots of experience with multiple startups and failure
+- CMO of Glispa
+- Eric Schmidt: "A mind set in its ways is wasted. Don't do it."
+  - very open, warm, gracious presence that has nurtured talent
+- Eric Schmidt: "The Internet is the first thing that humanity has built that humanity doesn't understand, the largest experiment in anarchy that we've every had"
+- on Carly Fiorina: good that strong women are running for positions of power, but was difficult to see her running HP
+  - "technology is not the reason behind the digital divide"
+- Nicole worked on the deal selling NeXT back to Apple
+- Steve Jobs: "always have a strong frame of reference" - "be super-researched"
+- Nicole had to filter the many amounts requests to Steve by the ones with the most value for the company
+- Steve Jobs: "know who you are and where your strengths are"
+- all of these people taught:
+  - technology is not just about the 1s and 0s
+  - it's about the people involved
+  - the tech industry today is just a wave - it will end, but there will be other waves
+- glispa
+  - find the best audiences for app developers
+
