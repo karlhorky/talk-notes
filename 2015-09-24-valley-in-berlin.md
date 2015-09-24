@@ -115,3 +115,20 @@ by [Ben Larson](https://twitter.com/blars0n)
   - revenue model
 - sustainable growth
   - growth based on real projections
+- produce value
+  - make something that people want
+- Adeo Ressi: "Secrets to sustaining success: be smart, be frugal, have revenue"
+
+### when the market is good
+
+- you can scale quickly
+- be smart
+- be frugal
+- have revenue
+
+### when the market isn't good, it's reversed:
+
+- have revenue
+- be frugal
+- be smart
+- scale quickly
