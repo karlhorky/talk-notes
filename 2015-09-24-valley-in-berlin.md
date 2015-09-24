@@ -224,3 +224,10 @@ by [Jon Soberg](https://twitter.com/Jon_Soberg)
   - this will happen faster than ever due to globalization
 - large talent cost advantages in Berlin
 - the success will bring greater investment
+
+### Expansive Ventures' Role
+
+- founded with a global vision
+- focused on top founders
+- lead large early rounds
+- provide a global network of support
