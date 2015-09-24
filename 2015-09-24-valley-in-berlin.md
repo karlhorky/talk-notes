@@ -132,3 +132,44 @@ by [Ben Larson](https://twitter.com/blars0n)
 - be frugal
 - be smart
 - scale quickly
+
+## Anyone can cook
+
+by [Verena Hubertz](https://twitter.com/verenahubertz)
+
+- founder and manager of Kitchen Stories
+  - app with recipie videos
+  - free
+  - 12 languages
+  - usability
+- bootstrapped from nothing
+  - sold car and did a funding round through friends and family
+  - hired student ios dev
+  - > 7 million downloads with $0 marketing
+  - how? with global features
+
+### Why?
+
+- many people like to cook, but they can't
+  - with videos, they can follow along and actually do it
+- user feedback: they wanted to share their own recipes
+  - KS added new personalization features
+
+### Launch global
+
+- users from many countries becoming active
+- easy recipes with non-fancy ingredients work best globally
+
+### Foster Strong Partnerships
+
+- started with cold-calling
+  - kraft, bertolli, philadelphia, etc
+  - 20k in revenue and proved the market before launch
+  - KS featured on partner's networks
+
+### Why Berlin?
+
+- needed creative people (content media business)
+- people want to help if you reach out (networking)
+- multilingual nature
+
