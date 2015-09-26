@@ -335,17 +335,37 @@ by [Tammy Lister](https://twitter.com/karmatosed)
 - interface elements can be impatient or angry or happy
 - easier to create a connection with the users
 
-## Developing for Localization: CSS Techniques To Get Your Message Across To The World Wide Web
+## [Developing for Localization: CSS Techniques To Get Your Message Across To The World Wide Web](https://katiek2.github.io/localization/)
 
 by [Katie Kurkowski](https://twitter.com/katiek2)
 
 - localization is tough with fixed designs
 - localization: not just switching the text and language
-  - Pixar changed the vegetable in one of their films for Japan since the other vegetable was culturally more reviled
+  - culture changes: Pixar changed the vegetable in one of their films for Japan since the other vegetable was culturally more reviled
   - changing the units
+  - changing the quotes
+  - etc
 
 ### example: text embedded in image
 
 - text should stay text
 - don't hardcode in the image
 - boxes need to expand and contract (german is typically longer as english, japanese typically shorter)
+
+### example: headline and jumbotron
+
+- line breaks and orphans a problem
+- would be nice: cross-browser orphan management, also for non-text elements
+- can do at least something now: hiding breaks on different breakpoints
+
+### example: groups of boxes: markup
+
+- differing title, content and box heights that need to be all aligned
+- 2 nested flexboxes with different flex directions
+
+### Tips
+
+- be careful with using text-transform in CSS - they can create strange anomalies in non-roman characters
+- plan early on for the text size to vary
+- increased device font size
+- dealing with cmses
