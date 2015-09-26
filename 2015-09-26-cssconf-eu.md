@@ -67,5 +67,5 @@ by [Claudina Sarahe](https://twitter.com/itsmisscs)
 - this will only come through participation
 - maybe we can use these same techniques and connections to change things in other networks like our cities
 
-- changes of scale mean that improbably theories become likely and that unlikely events become certainties
+- "changes of scale mean that improbable theories become likely and that unlikely events become certainties"
 
