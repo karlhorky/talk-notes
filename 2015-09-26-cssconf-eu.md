@@ -131,3 +131,24 @@ by [Michael Mifsud](https://twitter.com/xzyfer)
   - CPDD: Copy Paste Driven Development
   - CEDD: Compiler Error Driven Development
 - first versions were horribly unperformant
+
+## The Missing Slice
+
+by [Lea Verou](https://twitter.com/leaverou)
+
+- Lea: CSS WG invited expert
+- Lea: human computer interaction research work
+- example: pie charts: they're everywhere
+- but difficult and complicated to define in CSS
+
+### Hallmarks of Good CSS Solutions
+
+- flexibility
+  - how do we modify the code later?
+- maintainability
+  - how much code?
+  - extra elements?
+  - straightforward?
+- extensibility
+  - can we add things to the solution later?
+
