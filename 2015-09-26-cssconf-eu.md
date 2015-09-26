@@ -104,3 +104,30 @@ by [Una Kravets](https://twitter.com/una)
 ### Capabilities
 
 - with a bit of creativity and analysis, you can recreate Photoshop's effects in the browser
+
+## It's All Just Functions And Variables
+
+by [Michael Mifsud](https://twitter.com/xzyfer)
+
+- frontend dev at 99 designs
+- core contributor to libsass
+- learned many many languages and frameworks
+- many programming languages based on C (C-Style languages)
+  - JavaScript
+  - PHP
+  - Sass
+- the "real programmer"
+  - what is "real programming"? are languages like CSS also real programming?
+- dunning-kruger effect
+  - "a cognitive bias wherein relatively unskilled individuals suffer from illusory superiority, mistakenly assessing their ability to be much higher than is accurate"
+  - "conversely, highly skilled individuals may underestimate their relative competence, erroneously assuming that tasks that are easy for them also are easy for others"
+- 2014: the first iteration of libsass - porting Sass to C++
+
+### Diving in to C++
+
+- OMG scary
+- "Real programming"
+- useful techniques
+  - CPDD: Copy Paste Driven Development
+  - CEDD: Compiler Error Driven Development
+- first versions were horribly unperformant
