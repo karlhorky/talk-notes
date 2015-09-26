@@ -256,3 +256,82 @@ by [Glen Maddern](https://twitter.com/glenmaddern)
 - with composes property and other classes from other files
 - allows you to compose atomic classes by mixing in other styles
 - this solves reuse
+
+## Emotion Through CSS
+
+by [Tammy Lister](https://twitter.com/karmatosed)
+
+- code psychology is exciting
+- how can we create experiences to connect with others
+- emotion: essential part of being human
+  - range of emotion is incredible
+  - we assign emotion to inanimate objects: ex. sad, grumpy laptop when it can't boot
+  - without emotions, objects can feel a bit uneasy
+  - animals feel emotions too
+- pepper: social robot
+- robot seal: elicits emotional response
+  - with sounds and actions
+- humans need emotional connection
+  - like primates needing a hug
+- emotions are feelings of the mind
+- emotions consist of three parts
+  - physiological response
+  - behavior or expressive response
+  - subjective experience
+- animation touches our emotions
+
+### The web
+
+- in contrast, interaction is cold
+- the feeling is web is for robots, rather than humans
+- how do you show emotion just through an interface
+- robots: what happens when you have no face?
+
+### What can we do?
+
+- even simple animations can show a bit of emotion
+- timing is critical for conveying emotion or personality
+- exaggeration: can elicit emotional response
+  - careful to not overuse
+
+### Engaging users
+
+- emotional experiences create connections with users
+- users kind of bond with interfaces as they use them
+- small little touches like animating the eyes on characters
+
+### CSS Animations
+
+- can do this engagement with CSS animations
+- playful interfaces for games
+- animations can be used in smaller interactions as well
+  - slack: the emoji picker
+  - Codepen: three levels of notification
+    - first a little color bar
+    - then highlighting the button through change in size
+    - then finally a notification bar
+  - Codepen: heart animation on like
+
+### Adding a personality to buttons
+
+- happy button: taking cues from minions
+  - jumping up and down intermittently, and on hover constant jumping
+- angry button
+- sad button: cues from pikachu
+  - slow heaving motion
+- coughing button
+- zen inputs
+  - quietly doing its own thing
+  - moving, but not noticably
+
+### Invisible animations
+
+- when animations are good, you don't notice them
+- it's about adding to the experience subconsciously
+- animation films, studio ghibli, etc
+
+### Giving feedback to the user
+
+- interface elements can be impatient or angry or happy
+- easier to create a connection with the users
+
