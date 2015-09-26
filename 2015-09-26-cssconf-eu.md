@@ -132,7 +132,7 @@ by [Michael Mifsud](https://twitter.com/xzyfer)
   - CEDD: Compiler Error Driven Development
 - first versions were horribly unperformant
 
-## The Missing Slice
+## [The Missing Slice](http://leaverou.github.io/missing-slice)
 
 by [Lea Verou](https://twitter.com/leaverou)
 
