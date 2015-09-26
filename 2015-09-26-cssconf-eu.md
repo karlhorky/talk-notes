@@ -152,3 +152,41 @@ by [Lea Verou](https://twitter.com/leaverou)
 - extensibility
   - can we add things to the solution later?
 
+## I Don't Want To Be On Facebook All Day!
+
+by [Horia Dragomir](https://twitter.com/hdragomir)
+
+- Messenger.com - full page react app to send / receive messages
+- why build it? corporate blocking, cool to build
+
+### How does Facebook frontend?
+
+- use modules, small components
+- scoped, encapsulated css
+- public keyword in class names to mark styles as useable by other modules
+- CSS auto-packaged and required
+- human mode: reading / writing software
+- machine mode: machine when it executes your code
+- static transforms allows you to get the best of both modes
+  - ex. vendor prefixes
+- delivery architecture: only deliver the needed vendor prefixes for each browser
+- no units for 0
+- munging
+  - readable names for humans
+  - efficient names for machines
+- CSS is mostly vanilla, with exceptions for static transforms
+  - CSSConstants are also included for variables (var() syntax)
+- style-agnostic components
+  - container elements without styles
+  - these contain other elements with styles
+
+### Messenger.com
+
+- no support for old browsers
+- wanted to use flexbox, but could not reproduce design with it
+  - started by using the battle-tested <Layout />
+  - ended up debugging it a bit more and it turned out to be the static transforms that were causing errors
+- components like px, but the design was responsive and would work better with percentages
+- right panel should automatically close when not enough space
+- Messenger.com was able to take the original buttons from Facebook with all the accessibility improvements
+  - first secondary domain running with facebook components
