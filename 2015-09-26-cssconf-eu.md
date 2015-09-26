@@ -369,3 +369,72 @@ by [Katie Kurkowski](https://twitter.com/katiek2)
 - plan early on for the text size to vary
 - increased device font size
 - dealing with cmses
+
+## Enhancing responsiveness with Flexbox
+
+by [Zoe Mickley Gillenwater](https://twitter.com/zomigi)
+
+- Zoe: from booking.com in Amsterdam
+- at booking.com
+  - 802k properties
+  - 42 languages
+  - 54 currencies
+  - need flexible designs for these variations
+- %, em/rem, vw/vh helpful, but not perfect
+- relative units of measurements are a best guess at the ideal, but still a guess
+- any unit of measurement is going to be an approximation
+- flexbox gets closer to the ideal (designing without units)
+
+### example: job search @ guardian (responsive breakpoints with %s)
+
+- 2 opportunities for progressive enhancement
+- menu text can be cut off
+- button can be too big for the content
+- you cannot control these values
+- if you use flex property instead, it will grow and shrink if you tell it that it can
+  - flex: none - size to content exactly
+  - flex: auto - fill remaining space
+- you can fix vertical alignment and height of elements with flexbox as well
+- progressive enhancement for browsers that support flexbox
+
+- content-driven breakpoints are better than device-based, but they still are a decision and have weaknesses
+
+### example: booking.com contact form
+
+- responsive layout without media queries (with flexbox)
+- inputs are positioned next to each other on larger screens, in a column on smaller screens
+  - `flex: 1 0 40%;`
+  - this is:
+    - `flex-grow: 1;` give it 1 share of any extra width on its line
+    - `flex-shrink: 0;` - don't shrink smaller
+    - `flex-basis: 40%;` - start field at 40%
+
+### example: booking.com map info windows
+
+- label should be displayed left of the button
+- but this space is not always available
+- this label should be dropped down to the next line if the space is not available
+- flexbox to the rescue again
+
+### example: blog
+
+- right-floated label wraps to next line
+- with floating (without media queries), label is right aligned on new line - awkward
+- if you use flexbox, you can left align the label on the new line
+
+### rearrangement of visual and flow ordering
+
+- with the `order` property
+- tip: reorder only for good, not for evil
+- html order still needs to be logical for the content
+
+### example: guardian.com
+
+- shuffling stories around in the wide view
+  - they're not using `order` property
+
+### sage advice
+
+- flexbox requires a mental shift in how you think about and approach layout
+- RWD is not binary - it's a continuum
+- flexbox can help make your site more responsive than it already is
