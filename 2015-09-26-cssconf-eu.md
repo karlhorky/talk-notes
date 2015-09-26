@@ -335,3 +335,17 @@ by [Tammy Lister](https://twitter.com/karmatosed)
 - interface elements can be impatient or angry or happy
 - easier to create a connection with the users
 
+## Developing for Localization: CSS Techniques To Get Your Message Across To The World Wide Web
+
+by [Katie Kurkowski](https://twitter.com/katiek2)
+
+- localization is tough with fixed designs
+- localization: not just switching the text and language
+  - Pixar changed the vegetable in one of their films for Japan since the other vegetable was culturally more reviled
+  - changing the units
+
+### example: text embedded in image
+
+- text should stay text
+- don't hardcode in the image
+- boxes need to expand and contract (german is typically longer as english, japanese typically shorter)
