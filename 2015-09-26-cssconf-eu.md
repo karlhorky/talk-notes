@@ -190,3 +190,69 @@ by [Horia Dragomir](https://twitter.com/hdragomir)
 - right panel should automatically close when not enough space
 - Messenger.com was able to take the original buttons from Facebook with all the accessibility improvements
   - first secondary domain running with facebook components
+
+## [Interoperable CSS](https://glenmaddern.com/slides/interoperable-css-eu)
+
+by [Glen Maddern](https://twitter.com/glenmaddern)
+
+- Stoic philosophy: "all this has happened before, all this will happen again"
+- Sept 2008
+  - 70% of world using IE 7
+  - heavy use of window-level namespacing in browsers
+    - everything runs in this global soup and you just need to carve off a piece for yourself to work in
+- ServerJS in 2009
+- Kevin Dangoor: "JavaScript needs a standard way to include other modules and for those modules to live in discreet namespaces. There are easy ways to do namespaces, but there's no standard programmatic way to load a module (once!)."
+- Kevin Dangoor: "Server-side JavaScript is very fragmented. A script that accesses files can't be used without modification on both rhino and v8. Spidermonkey and JavaScriptCore can't both load in additional modules in the same way."
+- this is similar to Sass/Less now
+  - not interoperable
+- Node.js Feb 2009
+  - CommonJS July 2009
+  - Node.js and commonJS had different visions, node's version won
+  - module system moved namespacing to the filesystem
+
+### How does this relate to CSS?
+
+- single global context -> module system and package ecosystem
+- Browserify: you can change the human interface of a language without needing to change the machine interface
+- Is this possible with CSS?
+- yes, with interoperable CSS
+  - :import and :export directive, rest of file is global
+  - built to support css modules
+- @vjeux's problems with css
+  - global namespace
+  - dependencies
+  - dead code elimination
+  - etc
+- CSS in JS proposed as option
+  - Radium *
+  - React
+  - etc
+  - CSS community loudly unhappy
+### CSS Modules
+- helping you maintain much of current knowledge of CSS
+- good design should lead you to good practice
+- what would make css easier for humans?
+- Why no success before? many other solutions focused on just Isolation or Reuse
+  - isolation: components -> styles, Bem
+  - reuse first: styles -> components, OOCSS, small filesizes, difficult for teams, change paralysis
+
+#### Isolation
+
+- if you want to target specific element, you can
+  - write very specific selectors
+  - write super long names (like BEM)
+    - this looks like JS 2008
+- CSS Modules solution: local by default
+  - class names abstracted to paths
+  - in these files, you can use whatever short local names that make sense (ex. .normal or .error in buttons/submit.css)
+
+#### Abstractions
+
+- good abstractions save you from cognitive load
+
+#### Multi-file composition
+
+- because each file is isolated, you can't reference other files
+- with composes property and other classes from other files
+- allows you to compose atomic classes by mixing in other styles
+- this solves reuse
