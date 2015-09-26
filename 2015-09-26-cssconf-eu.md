@@ -69,3 +69,38 @@ by [Claudina Sarahe](https://twitter.com/itsmisscs)
 
 - "changes of scale mean that improbable theories become likely and that unlikely events become certainties"
 
+## Photoshop is Dead!: Editing Images in CSS
+
+by [Una Kravets](https://twitter.com/una)
+
+- frontend developer at IBM design team
+
+### Photoshop
+
+- average loading time of 33s
+- responsive design? LOL
+- expensive
+
+### Chrome
+
+- filters in CSS
+  - grayscale
+  - blur
+  - drop shadow
+  - etc
+- blend modes
+  - darken
+  - lighten
+  - contrast
+  - multiply
+  - etc
+- many more things are coming
+
+### Live-world Examples
+
+- Polygon
+- XOXO conference
+
+### Capabilities
+
+- with a bit of creativity and analysis, you can recreate Photoshop's effects in the browser
