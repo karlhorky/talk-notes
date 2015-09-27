@@ -337,7 +337,7 @@ by [Tammy Lister](https://twitter.com/karmatosed)
 
 ## [Developing for Localization: CSS Techniques To Get Your Message Across To The World Wide Web](https://katiek2.github.io/localization/)
 
-by [Katie Kurkowski](https://twitter.com/katiek2)
+by [Katie Kurkoski](https://twitter.com/katiek2)
 
 - localization is tough with fixed designs
 - localization: not just switching the text and language
