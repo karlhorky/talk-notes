@@ -100,6 +100,7 @@ by [Una Kravets](https://twitter.com/una)
 
 - Polygon
 - XOXO conference
+- [Unas Travel pictures](http://travels.surge.sh/ "Unas travel pictures enhanced with CSS blend modes")
 
 ### Capabilities
 
@@ -140,6 +141,7 @@ by [Lea Verou](https://twitter.com/leaverou)
 - Lea: human computer interaction research work
 - example: pie charts: they're everywhere
 - but difficult and complicated to define in CSS
+  - the best solution (a CSS one-liner) needs the [CSS conic-gradient() polyfill](http://leaverou.github.io/conic-gradient/) by Lea
 
 ### Hallmarks of Good CSS Solutions
 
@@ -215,7 +217,7 @@ by [Glen Maddern](https://twitter.com/glenmaddern)
 - single global context -> module system and package ecosystem
 - Browserify: you can change the human interface of a language without needing to change the machine interface
 - Is this possible with CSS?
-- yes, with interoperable CSS
+- yes, with [interoperable CSS](http://glenmaddern.com/articles/interoperable-css "Interoperable CSS blog post")
   - :import and :export directive, rest of file is global
   - built to support css modules
 - @vjeux's problems with css
@@ -228,7 +230,8 @@ by [Glen Maddern](https://twitter.com/glenmaddern)
   - React
   - etc
   - CSS community loudly unhappy
-### CSS Modules
+  
+### [CSS Modules](http://glenmaddern.com/articles/css-modules "CSS Modules blog post")
 - helping you maintain much of current knowledge of CSS
 - good design should lead you to good practice
 - what would make css easier for humans?
@@ -384,6 +387,7 @@ by [Zoe Mickley Gillenwater](https://twitter.com/zomigi)
 - relative units of measurements are a best guess at the ideal, but still a guess
 - any unit of measurement is going to be an approximation
 - flexbox gets closer to the ideal (designing without units)
+- Zoes flexbox [examples playground](http://www.smoresday.us/)
 
 ### example: job search @ guardian (responsive breakpoints with %s)
 
@@ -438,3 +442,4 @@ by [Zoe Mickley Gillenwater](https://twitter.com/zomigi)
 - flexbox requires a mental shift in how you think about and approach layout
 - RWD is not binary - it's a continuum
 - flexbox can help make your site more responsive than it already is
+- [use Modernizr with flexbox](http://zomigi.com/blog/using-modernizr-with-flexbox/ "Blogpost by Zoe") in case you need to separate styles for [non supporting browsers](http://caniuse.com/#search=flexbox)
