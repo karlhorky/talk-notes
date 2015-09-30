@@ -1,6 +1,6 @@
 # CSSconf EU
 
-## The Front-End Revolution
+## [The Front-End Revolution](https://www.youtube.com/watch?v=0gpraHLQ0L0)
 
 by [Claudina Sarahe](https://twitter.com/itsmisscs)
 
@@ -260,7 +260,7 @@ by [Glen Maddern](https://twitter.com/glenmaddern)
 - allows you to compose atomic classes by mixing in other styles
 - this solves reuse
 
-## Emotion Through CSS
+## [Emotion Through CSS](https://speakerdeck.com/tammielis/emotion-through-css)
 
 by [Tammy Lister](https://twitter.com/karmatosed)
 
@@ -373,7 +373,7 @@ by [Katie Kurkoski](https://twitter.com/katiek2)
 - increased device font size
 - dealing with cmses
 
-## Enhancing responsiveness with Flexbox
+## [Enhancing responsiveness with Flexbox](http://www.slideshare.net/zomigi/enhancing-responsiveness-with-flexbox-css-conf-eu-2015)
 
 by [Zoe Mickley Gillenwater](https://twitter.com/zomigi)
 
