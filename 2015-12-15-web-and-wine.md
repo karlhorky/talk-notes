@@ -292,3 +292,65 @@ by [Tobias Koppers](https://github.com/sokra)
   - because we can't do on-demand loading for server-side rendering, we must do prefetching of possibly-required chunk
 
 ## Frontend management tomorrow?
+
+by [Johannes Ewald](https://twitter.com/jhnnns)
+
+- three deciding web features
+  - http/2
+  - es2015 modules and System.import()
+  - Web Components
+
+### Problems with HTTP1
+
+- limited parallelism (~6)
+- head-of-line blocking (browser must wait until server responds)
+- protocol overhead (since requests should be stateless, all headers are re-sent every time)
+- headers cannot be compressed
+
+### Features in HTTP/2
+
+- multiplexing
+- HTTP/2 is a binary protocol
+- response prioritization
+- header compression
+- server push
+  - same as inlining (delivering more than one resource at once), but can be cached and prioritized per-file
+  - for this we need a dependency tree of dependent resources per entry point
+- dependency trees can be generated with:
+  - traffic analysis from CDN
+  - bundler
+
+### ES2015 modules and System.import()
+
+- `require()` in CommonJS modules is different from ES2015 import
+  - import run on compile phase and thus can only be in the top-level scope
+  - CommonJS copies required values, ES2015 gives you back a live value instead
+    - ES2015 impprts are one-way bindings
+- since imports and exports are resolved on compilation, all required modules must be defined beforehand
+  - no on-demand loading?
+    - System.import() should be the on-demand solution for this
+- many questions as to how each runtime should behave with System.import()
+
+### Web Compoents
+
+- do they solve similar problems?
+  - yes and no
+- Shadow DOM encapsulates DOM nodes into subtrees that are unreachable with CSS selectors
+- HTML templates - reusable portion of code
+- custom elements
+  - API for registering your own html elements with functionality
+- HTML imports
+  - lots of overlap with ES2015 module loading
+
+### Conclusion
+
+- our toolset has become very complex over the years
+- but they ease development and improve performance for users
+- rules of thumb
+  - don't use tools unless you need them
+  - strive for the least abstraction
+  - plugin-driven tools will serve you better than monolithic do-everything tools
+  - AST-based tools are better than DSLs
+- HTTP/2 invalidates some of our current performance best-practices, while others still apply
+- ES2015 modules are ready for use with transpilers
+- Web components provide useful features, some still up in the air
