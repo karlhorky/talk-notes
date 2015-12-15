@@ -112,7 +112,6 @@ by [Johannes Ewald](https://twitter.com/jhnnns) and [Richard Stromer](https://tw
   - async js and css (non-blocking)
 - PageSpeed Modules for servers
 
-### Advanced frontend optimization
 ## [Advanced Frontend Optimization with Webpack](https://sokra.github.io/slides/frontend-optimize)
 
 by [Tobias Koppers](https://github.com/sokra)
