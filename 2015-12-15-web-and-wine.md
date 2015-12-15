@@ -113,5 +113,59 @@ by [Johannes Ewald](https://twitter.com/jhnnns) and [Richard Stromer](https://tw
 - PageSpeed Modules for servers
 
 ### Advanced frontend optimization
+## [Advanced Frontend Optimization with Webpack](https://sokra.github.io/slides/frontend-optimize)
+
+by [Tobias Koppers](https://github.com/sokra)
+
+- created Webpack a few years ago
+
+### Making things faster
+
+- motivation: users get annoyed by slow apps
+- users may quit early while loading
+- smaller
+  - less bandwidth usage
+- simplest and best: make it smaller
+- reduce the amounts of requests
+- nobody adds lots of script tags
+  - now everything is concatenated and combined
+- many apps are just using concat for everything
+- but there are problems with this:
+  - large concatenated file
+  - many unnecessary bytes are transferred
+- loading everything as separate requests is also not great - many requests
+
+#### Recommendations
+
+- just load what the user needs at the current point in time (for instance, for a profile, load the resources just for this page)
+- gzip everything
+- try to guess what the user will need (if the user clicks on the search field, we can start loading the search resources)
+
+#### Example interactions
+
+- user opens the web app on the settings page, gets a bundle for this page
+- user clicks on the profile page, gets an on-demand bundle for profile
+- user enters some text into the search field, the bundle for the search can be prefetched
+- but don't prepare too many small on-demand files
+- always load files in parallel when split up
+- loading indicators for on-demand contents
+- handle failures in on-demand loading
+
+#### Reducing the number of requests
+
+- js + js: concat
+- img + img: sprites
+- css + css: concat
+- js + html: inlineHTML
+- etc.
+
+#### Inlining
+
+- don't always inline
+  - it's not progressive
+  - inlining can increase the size (base64)
+  - resource may not be used
+  - flash of unstyled content may appear if css moved from head to body
+  - not parallizable or cachable
 
 ### Frontend management tomorrow?
