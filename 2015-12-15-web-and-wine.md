@@ -2,7 +2,7 @@
 
 2015-12-15 in Augsburg, Germany
 
-## Frontend management - yesterday, today and tomorrow?
+## [Frontend management - yesterday, today and tomorrow?](http://peerigon.github.io/talks/2015-12-15-webandwine-frontend-management/#1)
 
 by [Johannes Ewald](https://twitter.com/jhnnns) and [Richard Stromer](https://twitter.com/noxannet)
 
@@ -291,7 +291,7 @@ by [Tobias Koppers](https://github.com/sokra)
 - solution for on-demand loading
   - because we can't do on-demand loading for server-side rendering, we must do prefetching of possibly-required chunk
 
-## Frontend management tomorrow?
+## [Frontend management tomorrow?](http://peerigon.github.io/talks/2015-12-15-webandwine-frontend-management/#64)
 
 by [Johannes Ewald](https://twitter.com/jhnnns)
 
