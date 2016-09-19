@@ -60,4 +60,45 @@ by [Nik Graf](https://twitter.com/nikgraf)
 
 ## Riot.js
 
-by Christian Niederreiter
+by [Christian Niederreiter](https://github.com/cntech/)
+
+- Christian: works for [NetX Automation in Wels](http://www.netxautomation.com)
+- Riot.js - 10k GitHub Stars, 10k Bytes
+
+### Introduction: RIOT, the "Mini React"
+
+- Christian got into it by starting a personal translation project
+  - Angular 2 was too complex with Typescript
+- similar concepts to React
+- React "components" called tags in React
+- small size
+- intuitive and concise
+
+### Ease of Use: Functions / Objects
+
+- this: tag object
+- this.update(): call manually after async changes
+- this.opts: attributes
+- this.tags: Tag children
+- conditions with `if` html attribute
+- loop with `each` html attribute
+
+### Compatibility: jQuery, Less/Sass, Typescript Webpack
+
+- +++ jQuery - very good compatibility, better than Angular 1, for instance
+- +++ Less / Sass
+- +++ Bootstrap
+- ++ Webpack
+- + Typescript (out of the box, only "typescript-simple")
+- Testing - not great DX
+
+### Example App: "Visual Recipe"
+
+- https://github.com/cntech/visualrecipe
+
+### Learnings
+
+- mixing HTML+CSS+JS is **good**
+  - as opposed to separation of concerns via language
+- RIOT is very flexible and doesn't force anything on the developer
+  - this is a nice way of writing a framework
